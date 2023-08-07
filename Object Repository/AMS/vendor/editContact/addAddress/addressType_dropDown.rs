@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addressType_dropDown</name>
+   <tag></tag>
+   <elementGuidId>2681a428-cff0-499d-8596-c177c57b9e9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vendor-contact-address-0-contact-12212-edit > div.row > div.col-xs-3 > #AddressTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='AddressTypeId'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b054f882-8b92-4dc3-b73a-636b1bb8c699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-tighter-select</value>
+      <webElementGuid>1e59d25e-26f2-4eec-9f8e-bf9181b7138a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddressTypeId</value>
+      <webElementGuid>1e9ed52c-27ca-4641-b00f-973b90f1358b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AddressTypeId</value>
+      <webElementGuid>778d4d95-89f2-4eca-94fc-fa205b4d635d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+Office
+Personal
+Other
+Business
+BusinessContact
+Unknown
+Concierge
+</value>
+      <webElementGuid>f63dd2a0-9fb9-43e3-ba8b-241369191473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContactsDynamic&quot;)/div[@class=&quot;vendor-edit-box target-edit-vendor&quot;]/div[@class=&quot;vendor-contact-edit-body&quot;]/div[@class=&quot;vendor-contact-address-0-contact-12212-edit&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-3&quot;]/select[@id=&quot;AddressTypeId&quot;]</value>
+      <webElementGuid>4b65c1b2-2d66-45b3-9637-ee4fc4484593</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='AddressTypeId'])[5]</value>
+      <webElementGuid>3facefeb-e6da-401b-b045-1750cee63c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/div[2]/div[2]/div/div/div[6]/select</value>
+      <webElementGuid>e45e8ffb-5c94-4481-abec-fd51e1a1fb33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Type'])[5]/following::select[1]</value>
+      <webElementGuid>ea0b4a28-2d73-4693-8d74-039506eb6599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip'])[6]/following::select[1]</value>
+      <webElementGuid>eac19cea-ba97-4c92-8e32-d598de159988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Information'])[1]/preceding::select[1]</value>
+      <webElementGuid>38e83a1e-6647-4179-9d1b-f64a65cd3a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Contact?'])[1]/preceding::select[1]</value>
+      <webElementGuid>06493f7e-b6c7-46d2-91f9-221fb734b5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[6]/select</value>
+      <webElementGuid>23f54777-3040-4bdb-ba21-975e6b78c101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AddressTypeId' and @name = 'AddressTypeId' and (text() = 'Select
+Office
+Personal
+Other
+Business
+BusinessContact
+Unknown
+Concierge
+' or . = 'Select
+Office
+Personal
+Other
+Business
+BusinessContact
+Unknown
+Concierge
+')]</value>
+      <webElementGuid>757125f0-13a1-437c-a2e9-3d6bf02f45a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

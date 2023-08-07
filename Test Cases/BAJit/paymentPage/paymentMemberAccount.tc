@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>paymentMemberAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9214c9f4-6067-4cd9-96f2-7d0566954f57</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76c1aaa9-1a5a-4284-bc6f-5dd4c4e4222d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'BAJ 2023; Membership BAJ100'</defaultValue>
+      <description></description>
+      <id>76c1aaa9-1a5a-4284-bc6f-5dd4c4e4222d</id>
+      <masked>false</masked>
+      <name>account</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>back_button</name>
+   <tag></tag>
+   <elementGuidId>9e4f342a-8209-402e-a36e-0b06fe5c244e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='client-list']/div/table/tbody/tr/td/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.target-pager-back.target-pager-back-new.btn.btn-default.btn-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>91d250d6-9525-4fac-96db-b3815baf7a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-pager-back target-pager-back-new btn btn-default btn-xs</value>
+      <webElementGuid>c2679b4f-60d9-4f26-9563-01c266448d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back</value>
+      <webElementGuid>a1afb633-6d8b-4b1a-86b2-3ac2d4d58f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-list&quot;)/div[@class=&quot;row&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;text-left&quot;]/button[@class=&quot;target-pager-back target-pager-back-new btn btn-default btn-xs&quot;]</value>
+      <webElementGuid>d50b7b06-654c-41e4-82e8-96a3f0addd26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='client-list']/div/table/tbody/tr/td/button</value>
+      <webElementGuid>8e0b5d00-4998-456c-8260-36886c8041c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find'])[1]/following::button[1]</value>
+      <webElementGuid>53c4ba4d-dab4-457e-b3aa-b54abdccf6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Owner'])[1]/following::button[2]</value>
+      <webElementGuid>6a7a163f-4368-4b5b-a732-50c1226cb12a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forward'])[1]/preceding::button[1]</value>
+      <webElementGuid>f020828e-b8aa-4d5f-ad46-de677b328d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Size:'])[1]/preceding::button[2]</value>
+      <webElementGuid>61ebfd7b-9a78-4b76-814d-a72b0543299b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back']/parent::*</value>
+      <webElementGuid>015ab537-e626-4343-8845-cecc9545152a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/button</value>
+      <webElementGuid>8084a8fd-6596-46f6-8c0f-bd9f5a5ee5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Back' or . = 'Back')]</value>
+      <webElementGuid>c4bfe21a-3cb3-4b3b-8a24-24c6a2567dae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

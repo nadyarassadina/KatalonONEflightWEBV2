@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>adress_dropDown</name>
+   <tag></tag>
+   <elementGuidId>1b733499-1c05-4b6c-b55f-2739af515f07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AddressId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AddressId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>619e3987-0838-4b6d-969c-9699269548ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control black-tight-input tight-input-margin no-border target-client-account-save-form</value>
+      <webElementGuid>96678974-f4e8-4ba5-955b-1a49b14007bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c0f5304c-b96e-4a3b-80aa-0d937032f194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>Address is required</value>
+      <webElementGuid>82eb2c0c-dc92-4143-8248-3e6cb9c36d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddressId</value>
+      <webElementGuid>d682f792-51c9-4dd0-8787-f05f399131d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AddressId</value>
+      <webElementGuid>f6dff979-6393-47f9-8eee-cde380a2df52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+5335 S Valentia Way Greenwood Village CO 80111 
+</value>
+      <webElementGuid>ab3bf11a-4355-4053-baae-3c5213608b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddressId&quot;)</value>
+      <webElementGuid>0e57878f-757b-42ea-b423-a44c2ff0c9a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AddressId']</value>
+      <webElementGuid>065742cb-702a-42e2-99cf-cc99bc71dfc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccountInfo']/div/div/div/div/div[4]/div/select</value>
+      <webElementGuid>e486cd0b-bd27-431a-8074-cddf168316d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address:'])[1]/following::select[1]</value>
+      <webElementGuid>eb04754c-4414-459d-9ab3-8f78a60c2ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anniversary Date:'])[1]/following::select[1]</value>
+      <webElementGuid>905ab59c-d015-41b3-b9bc-46a5d316a743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product:'])[1]/preceding::select[1]</value>
+      <webElementGuid>97ab2348-d22c-46cf-9fcd-fe350026fee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dues Balance:'])[1]/preceding::select[2]</value>
+      <webElementGuid>c5fe9913-2527-401a-b93f-b22860c19d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+      <webElementGuid>0cc95492-a614-4a30-9bfb-d2c94974c73f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AddressId' and @name = 'AddressId' and (text() = 'Select
+5335 S Valentia Way Greenwood Village CO 80111 
+' or . = 'Select
+5335 S Valentia Way Greenwood Village CO 80111 
+')]</value>
+      <webElementGuid>12cb5326-4296-4b29-816c-c9d1268f0429</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

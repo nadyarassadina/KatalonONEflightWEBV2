@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>leadPassenger_dropDown</name>
+   <tag></tag>
+   <elementGuidId>8fcc0035-61a6-48b3-af9f-ed969b425edc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#target-new-quote-type-3-leg-909637 > #new-executive-quote-noorder > #dropoff-quote-0 > div.panel-body > div.row > div.col-xs-7 > div.row > div.col-xs-7 > #LeadPassengerId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='LeadPassengerId'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f58e71a6-dd93-4dbd-8745-7f140aa271ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>b215314f-0b74-4012-b628-276d42aca428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>LeadPassengerId</value>
+      <webElementGuid>bf2c5f51-9838-41bd-a290-034e2121f7d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>LeadPassengerId</value>
+      <webElementGuid>5b8b321a-cafe-4fc8-a16c-df9b81788757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon, Chris
+</value>
+      <webElementGuid>43efdbab-47df-4db8-bb57-3d9391a68cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;concierge-quotes-accoridion-leg-3&quot;)/div[@class=&quot;panel request&quot;]/div[@id=&quot;dropoff-quotes-leg-3&quot;]/div[@class=&quot;panel-body&quot;]/div[@id=&quot;dropoff-quotes-workarea-leg-909637&quot;]/div[@id=&quot;dropoff-quotes-container-leg-909637&quot;]/div[@id=&quot;target-new-quote-type-3-leg-909637&quot;]/div[@id=&quot;new-executive-quote-noorder&quot;]/div[@id=&quot;dropoff-quote-0&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-7&quot;]/select[@id=&quot;LeadPassengerId&quot;]</value>
+      <webElementGuid>b49806a3-7e61-419b-ab40-9dc62808f772</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='LeadPassengerId'])[8]</value>
+      <webElementGuid>b1b747ab-b7f4-450a-b13c-a987b512b87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='dropoff-quote-0']/div/div/div[3]/div/div[2]/select)[5]</value>
+      <webElementGuid>c27bd6b2-8cbd-4d39-88a3-9a9871ba0b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead Passenger'])[8]/following::select[1]</value>
+      <webElementGuid>f7850435-0ee3-42a1-98c3-19345a61cca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Of Passengers'])[8]/following::select[1]</value>
+      <webElementGuid>6aca4d4d-4654-4603-a740-f54c4dda4a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vehicle Type Quantities'])[8]/preceding::select[1]</value>
+      <webElementGuid>6c522396-4c9e-4f5d-83bd-5af195c82204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUV:'])[8]/preceding::select[1]</value>
+      <webElementGuid>e9e18484-f56e-4b14-a149-76446abf69d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/div[3]/div/div[2]/select</value>
+      <webElementGuid>c7f5e47c-61fb-45f0-a19c-9f28d4965c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'LeadPassengerId' and @name = 'LeadPassengerId' and (text() = 'Katalon, Chris
+' or . = 'Katalon, Chris
+')]</value>
+      <webElementGuid>8124fcc4-9922-4457-b40e-6bb0643be634</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

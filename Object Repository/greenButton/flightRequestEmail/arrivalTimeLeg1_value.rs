@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>arrivalTimeLeg1_value</name>
+   <tag></tag>
+   <elementGuidId>85271806-cf3f-4ce9-a23e-cc04fd9a25ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ReadingPaneContainerId']/div/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div/div/div/table[2]/tbody/tr[6]/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c2067a68-8791-481a-9da3-00b4e22fb456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>03:42</value>
+      <webElementGuid>62e302a0-3500-43d6-8757-f5529f50c88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReadingPaneContainerId&quot;)/div[1]/div[@class=&quot;g_zET&quot;]/div[@class=&quot;MtujV&quot;]/div[@class=&quot;L72vd&quot;]/div[@class=&quot;Q8TCC yyYQP customScrollBar&quot;]/div[1]/div[@class=&quot;aVla3&quot;]/div[1]/div[1]/div[@class=&quot;wide-content-host&quot;]/div[@class=&quot;SlLx9 isFirstCard byzS1&quot;]/div[@class=&quot;XbIp4 jmmB7 GNqVo yxtKT allowTextSelection&quot;]/div[1]/div[@class=&quot;rps_31ea&quot;]/div[1]/div[@class=&quot;x_WordSection1&quot;]/table[@class=&quot;x_baj_results_email_itin_table&quot;]/tbody[1]/tr[6]/td[6]</value>
+      <webElementGuid>2fe2f763-b44f-4eb5-9a04-6da2e9e67852</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ReadingPaneContainerId']/div/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div/div/div/table[2]/tbody/tr[6]/td[6]</value>
+      <webElementGuid>9158a2b8-cb07-4542-9026-dc7d0c789641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atlanta, US-GA'])[1]/following::td[2]</value>
+      <webElementGuid>74895c1e-e4a1-457e-bc93-586d47646a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Denver, US-CO'])[1]/following::td[3]</value>
+      <webElementGuid>7f8d2917-466c-4139-901a-a84aa70e532c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KAPA (Centennial Airport)'])[1]/preceding::td[3]</value>
+      <webElementGuid>8c9eae52-4a28-4b5d-ad48-e6c426998102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATL (Hartsfield Jackson Atlanta International Airport)'])[1]/preceding::td[4]</value>
+      <webElementGuid>2a3ae2ed-8680-4d4f-9e03-6820bbf80e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='03:42']/parent::*</value>
+      <webElementGuid>f120bc53-afa6-4242-83b0-b13b7601168b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[6]</value>
+      <webElementGuid>3d162c80-40d3-4bab-ae9f-f25f01433fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '03:42' or . = '03:42')]</value>
+      <webElementGuid>a5089f41-2771-44e3-985a-abdf75726b1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

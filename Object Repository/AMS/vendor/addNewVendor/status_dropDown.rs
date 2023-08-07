@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>status_dropDown</name>
+   <tag></tag>
+   <elementGuidId>0eb8bb3e-0d4f-4813-8645-7f3b6d045cc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#VendorStatusSelect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='VendorStatusSelect']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b97591e5-509d-4b9c-8e1d-b90d555d163d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control black-tight-select</value>
+      <webElementGuid>906ad00d-de7c-4895-af3b-ae3e7fc020ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>662428c5-6cf4-4336-b928-144f74e61935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The Status field is required.</value>
+      <webElementGuid>ccbeb39f-bc73-469f-ac13-ef3d9c6f282b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>VendorStatusSelect</value>
+      <webElementGuid>01809c95-b3f6-4ce4-b014-023423eb3bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Vendor.VendorStatusId</value>
+      <webElementGuid>72adccab-9725-4f9a-8a7b-fc52688f3872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active
+Preferred
+Inactive
+DoNotUse
+BlackListed
+Deleted
+Duplicate
+</value>
+      <webElementGuid>3de1f964-a02c-470d-bd96-db9c8666f72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VendorStatusSelect&quot;)</value>
+      <webElementGuid>6a7065a2-4224-4d6a-b830-faa9b80c3e05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='VendorStatusSelect']</value>
+      <webElementGuid>c86e07ca-c8d4-464b-aa80-64dafa337c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='VendorTabsDynamic']/div/div/div/div[2]/select</value>
+      <webElementGuid>5d55a4f6-605e-4301-a344-72a6bea6747e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>a865dd6a-20d0-495e-a462-944e9d05a3b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::select[1]</value>
+      <webElementGuid>6436cfd7-3039-4a93-ac3a-a60b08282445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::select[1]</value>
+      <webElementGuid>3dac7aed-16c1-435c-ad3e-4b4239a2ef7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Headquarters'])[1]/preceding::select[1]</value>
+      <webElementGuid>d44d961f-43d1-4e7a-845d-a0ce0a7adeed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>df8afc46-2495-4151-8f09-5b88c615496f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'VendorStatusSelect' and @name = 'Vendor.VendorStatusId' and (text() = 'Active
+Preferred
+Inactive
+DoNotUse
+BlackListed
+Deleted
+Duplicate
+' or . = 'Active
+Preferred
+Inactive
+DoNotUse
+BlackListed
+Deleted
+Duplicate
+')]</value>
+      <webElementGuid>f1cc525d-aa47-4780-80d9-b3e07572e171</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

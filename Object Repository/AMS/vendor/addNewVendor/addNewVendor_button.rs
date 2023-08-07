@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addNewVendor_button</name>
+   <tag></tag>
+   <elementGuidId>2003e659-8644-4465-8e0a-5af6fd065e2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.save-button-submit.target-vendor-save</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Add New Vendor']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3ed04665-d821-4c39-a0b7-d31d636bee03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>77fea80c-8f12-46fd-a9e7-189d4f8abdcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Add New Vendor</value>
+      <webElementGuid>4f7b3a73-f9ec-47f0-8d46-49714d7401f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary save-button-submit target-vendor-save</value>
+      <webElementGuid>145c1b48-7432-4bde-a10e-f634fef2a20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VendorTabsDynamic&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 profile-div&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 text-center&quot;]/input[@class=&quot;btn btn-primary save-button-submit target-vendor-save&quot;]</value>
+      <webElementGuid>f2860988-8378-4c4e-b590-a776025c99aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Add New Vendor']</value>
+      <webElementGuid>3633b1b7-aa00-4310-a26d-fdd30f9fa1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='VendorTabsDynamic']/div/div/div[13]/div/div/input</value>
+      <webElementGuid>bafd9500-f1c4-456c-b1d5-0d40d1d126f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/input</value>
+      <webElementGuid>e00ebb6a-4c00-4345-92be-deee65965510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>e59da873-bf62-4c63-876d-731803f2d7ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

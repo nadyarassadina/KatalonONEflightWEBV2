@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>checkingValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a4c6535-f559-4b5d-9ebd-3875df1b326a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98988cc8-ba0e-44cf-9957-e7fec0cbe0dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d502fcb2-4f3c-48d2-a1bf-ef052196849e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc15ffe7-ffb1-4689-9bfe-2ed4898dd2fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'accountNegative'</defaultValue>
+      <description></description>
+      <id>98988cc8-ba0e-44cf-9957-e7fec0cbe0dc</id>
+      <masked>false</masked>
+      <name>accountNegative</name>
+   </variable>
+   <variable>
+      <defaultValue>'account'</defaultValue>
+      <description></description>
+      <id>d502fcb2-4f3c-48d2-a1bf-ef052196849e</id>
+      <masked>false</masked>
+      <name>account</name>
+   </variable>
+   <variable>
+      <defaultValue>'errorMessage'</defaultValue>
+      <description></description>
+      <id>cc15ffe7-ffb1-4689-9bfe-2ed4898dd2fd</id>
+      <masked>false</masked>
+      <name>errorMessage</name>
+   </variable>
+</TestCaseEntity>

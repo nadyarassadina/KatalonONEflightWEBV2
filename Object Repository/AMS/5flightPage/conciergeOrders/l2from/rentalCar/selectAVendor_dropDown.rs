@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectAVendor_dropDown</name>
+   <tag></tag>
+   <elementGuidId>cbd7ddbf-38c1-451f-a7c8-c53f9ef1ff2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='SelectedVendorEmailIds'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#target-new-quote-type-3-leg-909636 > #new-carrental-quote-noorder > #dropoff-quote-0 > div.panel-body > div.row > div.col-xs-12.col-sm-6 > div.div-quote-emails > #SelectedVendorEmailIds</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ef6dfa01-51e6-4a5c-88fe-3206c20fa2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>new-quote-vendor-list form-control black-tight-input</value>
+      <webElementGuid>3b6bdf88-b5d2-4cf4-9855-c1981fbb6d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SelectedVendorEmailIds</value>
+      <webElementGuid>b1ef1b7a-3375-4655-93f8-2e109a32baed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SelectedVendorEmailIds</value>
+      <webElementGuid>a814e7d6-ba79-428c-8f0a-3e5715587c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select a Vendor--
+Alamo Rent a Car
+AVIS
+Budget Rent a Car
+Dollar Rent A Car
+Enterprise Rent-A-Car
+Go Rentals
+Hertz Car Rental
+National Car Rental
+Payless Car Rental
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Thrifty Car Rental
+Thrifty Rental
+</value>
+      <webElementGuid>67641b3d-69c3-43d2-b9f3-31830d0a890a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;concierge-quotes-accoridion-leg-2&quot;)/div[@class=&quot;panel request&quot;]/div[@id=&quot;dropoff-quotes-leg-2&quot;]/div[@class=&quot;panel-body&quot;]/div[@id=&quot;dropoff-quotes-workarea-leg-909636&quot;]/div[@id=&quot;dropoff-quotes-container-leg-909636&quot;]/div[@id=&quot;target-new-quote-type-3-leg-909636&quot;]/div[@id=&quot;new-carrental-quote-noorder&quot;]/div[@id=&quot;dropoff-quote-0&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-6&quot;]/div[@class=&quot;div-quote-emails&quot;]/select[@id=&quot;SelectedVendorEmailIds&quot;]</value>
+      <webElementGuid>df5b94fa-e29d-438c-9768-1c83d73ca0da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='SelectedVendorEmailIds'])[11]</value>
+      <webElementGuid>e74c25a1-ac27-4867-9bfc-14b01f8cf43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='dropoff-quote-0']/div/div/div[3]/div[2]/select)[3]</value>
+      <webElementGuid>2ed99a81-b930-435f-b4ea-50c2f9e5e273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Vendor'])[5]/following::select[1]</value>
+      <webElementGuid>72208cb6-f9fb-43b6-aad6-cda8ac95915a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Final Amount'])[11]/following::select[1]</value>
+      <webElementGuid>f7e53246-e2b5-482e-b8bc-a627a004e873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Note'])[11]/preceding::select[1]</value>
+      <webElementGuid>0fa206e0-c357-46d2-a30f-dd8d00bd799a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quoted Amount'])[11]/preceding::select[1]</value>
+      <webElementGuid>e61db390-ce35-4517-ad71-539436cd69e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div[2]/div/div[2]/div[2]/div[3]/div/div[2]/div/div/div[3]/div[2]/select</value>
+      <webElementGuid>c62043d0-5d8e-428d-b1ae-14b8c38065b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'SelectedVendorEmailIds' and @name = 'SelectedVendorEmailIds' and (text() = '--Select a Vendor--
+Alamo Rent a Car
+AVIS
+Budget Rent a Car
+Dollar Rent A Car
+Enterprise Rent-A-Car
+Go Rentals
+Hertz Car Rental
+National Car Rental
+Payless Car Rental
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Thrifty Car Rental
+Thrifty Rental
+' or . = '--Select a Vendor--
+Alamo Rent a Car
+AVIS
+Budget Rent a Car
+Dollar Rent A Car
+Enterprise Rent-A-Car
+Go Rentals
+Hertz Car Rental
+National Car Rental
+Payless Car Rental
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Test_AutomationVendor
+Thrifty Car Rental
+Thrifty Rental
+')]</value>
+      <webElementGuid>9826cf16-8db9-4dc8-bd6f-5b97866ab52b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>leg1_tab</name>
+   <tag></tag>
+   <elementGuidId>f142e2e2-7b07-4463-816c-f1fb5c2d8473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ams-passenger-form']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ams-passenger-form > ul.nav.nav-tabs > li.active > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1de12d39-0766-4fd5-8fac-12e5b7f3bf5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>672a317c-2f81-4b9f-9da3-aead155873ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#PaxTab-0</value>
+      <webElementGuid>0ded6d47-fb3f-4454-a7e1-11d6e4d5d9ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leg 1</value>
+      <webElementGuid>0f631c36-861f-4514-894d-37cd8e4b8362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ams-passenger-form&quot;)/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;active&quot;]/a[1]</value>
+      <webElementGuid>998b40cf-f1ea-405a-bc9e-5eed1c136473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ams-passenger-form']/ul/li/a</value>
+      <webElementGuid>d3c71fbe-01b7-4389-a9c5-d7a2eafdb859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Leg 1')]</value>
+      <webElementGuid>4a55bcea-9b6f-4f39-9e49-220e3f2ae052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAX'])[2]/following::a[1]</value>
+      <webElementGuid>0371d5bd-4f87-4023-842d-71a172450a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Form'])[1]/following::a[1]</value>
+      <webElementGuid>94ee0533-955f-4e15-b3da-71120abbf3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leg 2'])[1]/preceding::a[1]</value>
+      <webElementGuid>42c17098-bdad-46ba-824f-b84ac1137818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leg 3'])[1]/preceding::a[2]</value>
+      <webElementGuid>cf485d3b-0715-4398-a0ab-30a6406d3031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Leg 1']/parent::*</value>
+      <webElementGuid>3aaba391-1498-4175-99e5-81c7ba459757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#PaxTab-0')]</value>
+      <webElementGuid>544f6cf1-5b33-4e03-af06-c2393802342a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/form/ul/li/a</value>
+      <webElementGuid>63a6bbf0-1ce7-4bc0-8c65-8c700f7f0045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#PaxTab-0' and (text() = 'Leg 1' or . = 'Leg 1')]</value>
+      <webElementGuid>7a188626-816b-4258-97d2-680f11dadaef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

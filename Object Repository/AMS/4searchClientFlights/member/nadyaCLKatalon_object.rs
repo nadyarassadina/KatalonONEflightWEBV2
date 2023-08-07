@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nadyaCLKatalon_object</name>
+   <tag></tag>
+   <elementGuidId>d3b52ba5-1281-4cff-a5db-e98b3594cc88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='lead-table']/tbody/tr/td[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ams-table.target-client-detail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2cfcf2c2-b4c2-413e-8a65-b70c0ba9c699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ams-table target-client-detail</value>
+      <webElementGuid>335df939-b229-4fca-864a-bcde47bffbd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientid</name>
+      <type>Main</type>
+      <value>67819</value>
+      <webElementGuid>7d966f73-bda3-4b8e-b667-3691a93a470e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Ams/ClientDetail/67819</value>
+      <webElementGuid>889dbf32-f991-472c-a5c5-fe207076dba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NadyaCL Katalon</value>
+      <webElementGuid>c4956a60-5b18-4d3f-a795-a609a4a4d247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lead-table&quot;)/tbody[1]/tr[1]/td[3]/a[@class=&quot;ams-table target-client-detail&quot;]</value>
+      <webElementGuid>e6bc3a66-dfe6-44bf-b892-b89fdd9e6d7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='lead-table']/tbody/tr/td[3]/a</value>
+      <webElementGuid>b39cea5b-1b41-41ea-959a-51b51a0b3ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'NadyaCL Katalon')]</value>
+      <webElementGuid>f1634f9e-b484-4741-9d77-a567ac962ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAJ'])[3]/following::a[1]</value>
+      <webElementGuid>a9552206-bad9-4e0a-be72-988e7ff05316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Size:'])[1]/following::a[7]</value>
+      <webElementGuid>88d583b4-e662-4a8d-b099-d2a687d36403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rassadinanadezhda3+Client@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>cb5a4deb-5c10-4f68-aa36-0237584c9666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(720) 333-3333'])[1]/preceding::a[2]</value>
+      <webElementGuid>9487fb98-f7a2-46c0-9755-0407d60f1060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NadyaCL Katalon']/parent::*</value>
+      <webElementGuid>f25a6472-f117-4652-bb0a-2bcea7e6dc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Ams/ClientDetail/67819')]</value>
+      <webElementGuid>c298f308-ecaf-408e-a3d6-4b6a003e5134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a</value>
+      <webElementGuid>59bc40ac-ee5c-4adb-8278-d1083666a990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Ams/ClientDetail/67819' and (text() = 'NadyaCL Katalon' or . = 'NadyaCL Katalon')]</value>
+      <webElementGuid>aaf42c34-2c0d-43e3-a5b0-70b8a9498345</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

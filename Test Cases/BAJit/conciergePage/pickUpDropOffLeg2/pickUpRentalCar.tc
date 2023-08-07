@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pickUpRentalCar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d87fbb6-e09a-43c5-a7c1-914137e80920</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aec1e78a-909c-4c08-9d3f-931efa6724b5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab6c88dd-6bad-4b32-bd73-4740b4bac8d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a20743b-1059-4703-bedd-4037887e2ebc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'select'</defaultValue>
+      <description></description>
+      <id>aec1e78a-909c-4c08-9d3f-931efa6724b5</id>
+      <masked>false</masked>
+      <name>select</name>
+   </variable>
+   <variable>
+      <defaultValue>'select2'</defaultValue>
+      <description></description>
+      <id>ab6c88dd-6bad-4b32-bd73-4740b4bac8d6</id>
+      <masked>false</masked>
+      <name>select2</name>
+   </variable>
+   <variable>
+      <defaultValue>'memberInformation'</defaultValue>
+      <description></description>
+      <id>0a20743b-1059-4703-bedd-4037887e2ebc</id>
+      <masked>false</masked>
+      <name>memberInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>checkStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d79b64a5-ffc0-488c-9434-8c539e6f941d</testCaseGuid>
+   <variable>
+      <defaultValue>'status'</defaultValue>
+      <description></description>
+      <id>859905af-d3ad-4497-af09-63de9ebd99b2</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close_button</name>
+   <tag></tag>
+   <elementGuidId>e948d5e4-68eb-41a7-a777-dc573dc971c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6668']/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#6668 > div.aircraftDetailBox > div.row-fluid.clearfix.bg-white > a.target-img-nav-hide.target-img-nav.aircraftInfoCloseButton > i.fa.fa-window-close.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7cb87f9f-8971-43af-be5e-5e2d3839b5a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-window-close fa-2x</value>
+      <webElementGuid>e80e3e48-d862-4748-af99-7fd67b5b0f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d0758aa1-9e34-49da-b5dd-708673fb5ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6668&quot;)/div[@class=&quot;aircraftDetailBox&quot;]/div[@class=&quot;row-fluid clearfix  bg-white&quot;]/a[@class=&quot;target-img-nav-hide target-img-nav aircraftInfoCloseButton&quot;]/i[@class=&quot;fa fa-window-close fa-2x&quot;]</value>
+      <webElementGuid>b9ffc3d4-ad12-4020-96cc-5529739e0f81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6668']/div/div/a/i</value>
+      <webElementGuid>28d4bdc6-698d-416e-b322-502f4286e748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/a/i</value>
+      <webElementGuid>0fc919a0-a75b-48fa-bfc1-1b3b3ca67eab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

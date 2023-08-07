@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deletePhone_button</name>
+   <tag></tag>
+   <elementGuidId>dae2bc00-4660-4322-b911-391117bc0d5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(6) > a.of-link-black > i.fas.fa-trash-alt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContactsDynamic']/table/tbody/tr[3]/td[3]/div[6]/a[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>53082eef-8dce-4c09-9823-2c557fa9e6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-trash-alt</value>
+      <webElementGuid>204493e9-0640-4d61-a202-238795f22412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContactsDynamic&quot;)/table[@class=&quot;table ams-table black vendor-contact-table&quot;]/tbody[1]/tr[3]/td[3]/div[6]/a[@class=&quot;of-link-black&quot;]/i[@class=&quot;fas fa-trash-alt&quot;]</value>
+      <webElementGuid>19fade7a-995a-42f2-a8aa-b38fc0d997ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/table/tbody/tr[3]/td[3]/div[6]/a[2]/i</value>
+      <webElementGuid>88669fb1-b9ab-4550-a37b-5e8fdc117298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a[2]/i</value>
+      <webElementGuid>d163844a-ffb4-4c04-8ca1-528fe525ba8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

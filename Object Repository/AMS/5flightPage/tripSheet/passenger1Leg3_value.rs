@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>passenger1Leg3_value</name>
+   <tag></tag>
+   <elementGuidId>b84f9fd2-e4ac-4720-9d74-f372e7249aa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FlightPlan']/div/div/div[2]/div[2]/div[2]/div[5]/div[3]/div/div[5]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c8ccd38b-eeb4-40b3-bf7d-b988fe04dcfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trip-label</value>
+      <webElementGuid>4a76aa4c-8448-440d-95e5-c5533248923c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chris Test</value>
+      <webElementGuid>bc9168a6-5417-4743-86b1-1500d01d7756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightPlan&quot;)/div[@class=&quot;content target-flight-plan-main&quot;]/div[@class=&quot;row ams-workflow-container&quot;]/div[@class=&quot;col-xs-8 target-flight-plan-trip-request-main&quot;]/div[@class=&quot;content target-flight-plan-trip-request-aircraft-list request-list&quot;]/div[@class=&quot;target-sheet-tool&quot;]/div[@class=&quot;leg-detail-container&quot;]/div[@class=&quot;row trip-passenger&quot;]/div[@class=&quot;col-xs-8 border-right&quot;]/div[@class=&quot;row trip-passenger-list text-row&quot;]/div[@class=&quot;col-xs-12 trip-passenger-details text-row&quot;]/span[@class=&quot;trip-label&quot;]</value>
+      <webElementGuid>cd7c4f5a-3884-4ca8-9f1e-743061c285fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightPlan']/div/div/div[2]/div[2]/div[2]/div[5]/div[3]/div/div[5]/div/span[2]</value>
+      <webElementGuid>155da81c-a1a0-4cc2-831e-72f27d8b2cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PASSENGER LIST'])[3]/following::span[2]</value>
+      <webElementGuid>b4d5b51c-cf3a-446c-810e-938b18b13431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TBD'])[9]/following::span[3]</value>
+      <webElementGuid>fef0792a-03d0-4c84-a651-3a3d369b714f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LUGGAGE'])[3]/preceding::span[5]</value>
+      <webElementGuid>1790bf89-e9c7-4970-bc54-e1217106ffa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETS'])[3]/preceding::span[5]</value>
+      <webElementGuid>4c0859df-f8d2-423d-bffa-c226373aca8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/div/div[5]/div/span[2]</value>
+      <webElementGuid>97ac6143-6a1c-43ee-aeda-4f58344ee3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chris Test' or . = 'Chris Test')]</value>
+      <webElementGuid>37429845-ce9f-4ef1-a2e7-8b9f3517b2f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

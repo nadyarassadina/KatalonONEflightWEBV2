@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>saveThisAicraft_button</name>
+   <tag></tag>
+   <elementGuidId>84128e4f-e47b-4c74-851f-1a24b15ad51e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Save this Aircraft']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.target-save-operator-aircraft</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9adcf1ad-f142-4a26-9e5c-4cad94afd850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3bbc2aaa-c936-4e8b-b220-350784f7065b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Save this Aircraft</value>
+      <webElementGuid>cfe3df55-f3bf-4ba1-a44d-5aa639c33589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary target-save-operator-aircraft</value>
+      <webElementGuid>6640301b-ec9a-4e35-a6a9-f9028646b4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AircraftDetailForm&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;text-center&quot;]/input[@class=&quot;btn btn-primary target-save-operator-aircraft&quot;]</value>
+      <webElementGuid>2548e17a-845d-4420-91e6-3aa62e739e12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Save this Aircraft']</value>
+      <webElementGuid>7d628cc7-c119-42dc-8116-b2cd175da3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='AircraftDetailForm']/div[3]/div/input[2]</value>
+      <webElementGuid>c54b20e4-8ec6-4b97-aefb-fd1bee11df26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input[2]</value>
+      <webElementGuid>5c702e99-50d3-4c10-823e-0842bc20f0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>591f1a4b-ada4-48ab-8faf-f4ac278cb3e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

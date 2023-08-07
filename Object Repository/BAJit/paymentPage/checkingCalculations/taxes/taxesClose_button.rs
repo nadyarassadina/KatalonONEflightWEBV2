@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taxesClose_button</name>
+   <tag></tag>
+   <elementGuidId>3d0b2ad3-0f8d-452b-aa65-2c877e65cb91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ONEflightDownDropDiv']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.glyphicon.glyphicon-triangle-top.bad.pull-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a6b77c0-7718-4097-9265-20b48c01f49c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-triangle-top bad pull-right</value>
+      <webElementGuid>fdddc65a-6f31-4c4e-867d-2a7d7f7d4b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ONEflightDownDropDiv&quot;)/div[@class=&quot;glyphicon glyphicon-triangle-top bad pull-right&quot;]</value>
+      <webElementGuid>9f55fb6a-0197-4d67-b986-19819d9a0fe4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ONEflightDownDropDiv']/div</value>
+      <webElementGuid>8999b2d5-fd8b-4e56-94b6-95f8be782ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div</value>
+      <webElementGuid>9d258567-2e78-4117-8617-7abd62959637</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

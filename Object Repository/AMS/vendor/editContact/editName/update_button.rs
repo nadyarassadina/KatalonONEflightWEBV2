@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>update_button</name>
+   <tag></tag>
+   <elementGuidId>6fdc25ba-8dcd-4626-a12f-ce67b0508d74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vendor-contact-12212-name-edit > div.row > div.col-xs-12.center-text > input.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value='Update Contact'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>498a958b-0c9f-41ed-b685-306a744d7d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1bbb6459-0da8-4b4d-b7a2-ff7bf7ac90d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>6e3f0fdc-0639-494a-a1cc-6d883dc9e78e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Concierge.VendorContactSave(12212, 'Name')</value>
+      <webElementGuid>0d9cf1f7-c750-477c-9e00-3236ff5351e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Update Contact</value>
+      <webElementGuid>edff093d-2612-4ff8-8fb9-fe2811ce8c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContactsDynamic&quot;)/div[@class=&quot;vendor-edit-box target-edit-vendor&quot;]/div[@class=&quot;vendor-contact-edit-body&quot;]/div[@class=&quot;vendor-contact-12212-name-edit&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 center-text&quot;]/input[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>f803d6b0-6750-4915-8d56-c1ce5bcc63eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='Update Contact'])[3]</value>
+      <webElementGuid>c0f7380f-a0a2-4a43-88f4-274603a304af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/div[2]/div[2]/div/div[3]/div/input</value>
+      <webElementGuid>992f1c7b-bafe-476b-b587-16ef0ed3958f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[3]/div/input</value>
+      <webElementGuid>3666876c-3162-49dc-afd5-415daa5d9be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>898e8219-ff60-4c28-8ab2-81650fb12161</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emptyLegs_button</name>
+   <tag></tag>
+   <elementGuidId>71d73a87-e800-41c3-bb06-cc8e4c661e5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menucontainer']/span/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown.singleDrop.open > a.dropdown-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fde1fff2-f993-4b7b-acaa-b45ef2cca2b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>2e592c47-9bdf-448f-b97a-4c5f2206af86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/BAJ/OneFlightEmptyLegSearch</value>
+      <webElementGuid>268ded8d-2bd8-406c-9b29-28f5374b0553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>23b1fe45-2c33-4707-a4d0-1b3e54c5d780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Empty Legs</value>
+      <webElementGuid>c75a0395-da09-47fe-8f46-eb750431b636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menucontainer&quot;)/span[@class=&quot;collapse navbar-collapse navbar-ex1-collapse target-flight-search-menu-bar&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;dropdown singleDrop  open&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>fad3aa0a-c85f-49dc-a7d6-322ee1690a34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menucontainer']/span/ul/li[3]/a</value>
+      <webElementGuid>e8c1e0d1-607e-4685-887d-06391623c6d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Empty Legs')]</value>
+      <webElementGuid>65da5422-78f3-4489-9240-c72daffdc4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book A Jet'])[1]/following::a[1]</value>
+      <webElementGuid>6f6eeeac-c217-4a5f-995c-155317383d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Tracking'])[1]/following::a[2]</value>
+      <webElementGuid>68a2fe5c-edf2-4b3b-a4aa-32a1f2b6ab62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Members'])[1]/preceding::a[1]</value>
+      <webElementGuid>f9038feb-6744-4cfd-8a74-a17054f1d378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::a[2]</value>
+      <webElementGuid>540d0e16-4e2c-466a-aebe-3b0d9fc8ac6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Empty Legs']/parent::*</value>
+      <webElementGuid>598437d7-49ad-4e36-9109-7ed2267cb15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/BAJ/OneFlightEmptyLegSearch')]</value>
+      <webElementGuid>1e8484fb-8497-49db-b8d4-5046105fbc34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>93869ea7-c1e2-4de4-9921-3936a0209581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/BAJ/OneFlightEmptyLegSearch' and (text() = 'Empty Legs' or . = 'Empty Legs')]</value>
+      <webElementGuid>99cff5a7-011f-4ec1-9785-65cbde2acea2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

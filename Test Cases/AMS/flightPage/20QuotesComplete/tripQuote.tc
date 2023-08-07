@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tripQuote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>583eae14-2ce6-44c6-afd4-40b7a20a872a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b514c58f-423e-44da-99cc-047d252480d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>081a79a5-2121-4d58-b92c-ed80680b5718</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6d00898-ae9e-4798-bea1-c84ed2f30e27</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'operator1'</defaultValue>
+      <description></description>
+      <id>b514c58f-423e-44da-99cc-047d252480d6</id>
+      <masked>false</masked>
+      <name>operator1</name>
+   </variable>
+   <variable>
+      <defaultValue>'aircraft1'</defaultValue>
+      <description></description>
+      <id>081a79a5-2121-4d58-b92c-ed80680b5718</id>
+      <masked>false</masked>
+      <name>aircraft1</name>
+   </variable>
+   <variable>
+      <defaultValue>'operatorQuote1'</defaultValue>
+      <description></description>
+      <id>b6d00898-ae9e-4798-bea1-c84ed2f30e27</id>
+      <masked>false</masked>
+      <name>operatorQuote1</name>
+   </variable>
+</TestCaseEntity>

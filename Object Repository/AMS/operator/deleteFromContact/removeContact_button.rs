@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>removeContact_button</name>
+   <tag></tag>
+   <elementGuidId>734d0d09-c51f-4210-92da-32d9aee1441f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContactsDynamic']/div[3]/table/tbody/tr[4]/td[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td.center-text > a.of-link-black.target-contact-remove</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>05b5934f-c3ab-46bd-a648-7da6ba41fbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:Operator.ContactRemove(1037, 12229);</value>
+      <webElementGuid>84ab0136-a01b-44f3-9d77-1274f16013e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>of-link-black target-contact-remove</value>
+      <webElementGuid>573801d1-103d-4a1d-b52a-f7707b9db588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>c2b1e4b4-cb7d-4072-bc58-f213baa4f2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contacts&quot;)/div[@class=&quot;row&quot;]/div[@id=&quot;ContactsDynamic&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;ContactsDynamic&quot;]/div[@class=&quot;row&quot;]/table[@class=&quot;table ams-table black&quot;]/tbody[1]/tr[4]/td[@class=&quot;center-text&quot;]/a[@class=&quot;of-link-black target-contact-remove&quot;]</value>
+      <webElementGuid>0bc977eb-595a-4359-84cc-68dea6f20102</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/div[3]/table/tbody/tr[4]/td[6]/a</value>
+      <webElementGuid>22499545-22c7-4c59-9ec5-be4a998c363e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Remove')])[3]</value>
+      <webElementGuid>316cfa03-f1bf-4ccf-826e-bc3ae133d722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[4]/following::a[1]</value>
+      <webElementGuid>84aa19bb-6ef9-4601-bb13-9e83791793c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KatalonContact3@gmail.com (Business)'])[1]/following::a[2]</value>
+      <webElementGuid>7cf5264e-0918-4d39-b3ca-8a386e3d906d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+Add a New Aircraft'])[1]/preceding::a[1]</value>
+      <webElementGuid>1e3a35a8-80ac-48d8-8e79-de1b6e6d1659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Aircraft'])[1]/preceding::a[2]</value>
+      <webElementGuid>1b72c9cc-c18c-4cdf-9991-a3a86e937d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:Operator.ContactRemove(1037, 12229);')]</value>
+      <webElementGuid>a2181186-b8b4-419a-97b4-2b811b4b0c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[6]/a</value>
+      <webElementGuid>0bb71634-1095-44f3-9e9f-7a8520ab6954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:Operator.ContactRemove(1037, 12229);' and (text() = 'Remove' or . = 'Remove')]</value>
+      <webElementGuid>6a3645e8-fbfb-4e72-bfa7-08e000d8bb0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

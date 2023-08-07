@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82df2be3-2eb0-4e6a-95f5-33bd5fb4a8f9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3554a704-20d1-419f-aa43-50e5223d3f97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'account'</defaultValue>
+      <description></description>
+      <id>3554a704-20d1-419f-aa43-50e5223d3f97</id>
+      <masked>false</masked>
+      <name>account</name>
+   </variable>
+</TestCaseEntity>

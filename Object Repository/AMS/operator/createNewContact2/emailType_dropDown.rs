@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emailType_dropDown</name>
+   <tag></tag>
+   <elementGuidId>357d102e-b6f2-40c4-af68-773df0288cf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#EmailTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='EmailTypeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c1cce840-3891-4c4e-bb9a-83a289f9fec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-tighter-select</value>
+      <webElementGuid>c0a7eefe-10b3-434d-96ea-8f3cafbef976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>EmailTypeId</value>
+      <webElementGuid>fe92f0b8-489f-43b3-912d-185aef56d3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>EmailTypeId</value>
+      <webElementGuid>0fcf2228-5728-4399-a835-428be0bb3094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+Office
+Personal
+Other
+Business
+Business Contact
+</value>
+      <webElementGuid>ac35b9b3-ab5d-4873-9a85-3da7cbc584a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EmailTypeId&quot;)</value>
+      <webElementGuid>60a3dc64-fac9-4f24-9ca4-d7282d5c405a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='EmailTypeId']</value>
+      <webElementGuid>c08591fb-0a8b-4a6f-86d9-8ed6d2cf8a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='operator-contact-form']/table[3]/tbody/tr[2]/td/div/div[2]/select</value>
+      <webElementGuid>e20cdfc2-35dc-47bb-a541-692e2d980be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Type'])[1]/following::select[1]</value>
+      <webElementGuid>cc94beeb-43dc-4da3-8f67-48916f077f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::select[1]</value>
+      <webElementGuid>2644ea26-6fee-4a72-8227-24fd7c7e75f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line 1'])[1]/preceding::select[1]</value>
+      <webElementGuid>cd0cd3cf-ad91-4f39-88c6-941ccc16126a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line 2'])[1]/preceding::select[1]</value>
+      <webElementGuid>e3a07ef1-7c57-4734-871d-f7ed3cff8347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr[2]/td/div/div[2]/select</value>
+      <webElementGuid>0b4ce3cc-6a82-491f-b8c5-42243d110832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'EmailTypeId' and @name = 'EmailTypeId' and (text() = 'Select
+Office
+Personal
+Other
+Business
+Business Contact
+' or . = 'Select
+Office
+Personal
+Other
+Business
+Business Contact
+')]</value>
+      <webElementGuid>ec9abcdd-a68f-4056-8e7d-7561c6453e6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

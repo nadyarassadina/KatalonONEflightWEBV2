@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>prefContact_dropDown</name>
+   <tag></tag>
+   <elementGuidId>6546d31f-b582-4bbd-92ae-79aaca2fd5a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PreferredContactId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PreferredContactId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a2239f11-b22a-421d-8a8d-9c9384fe4de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control black-tight-select</value>
+      <webElementGuid>3e8720c3-2953-46a5-89ee-cd381d2ecff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PreferredContactId</value>
+      <webElementGuid>f19a60df-daca-42d9-a345-4d4f962a4d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PreferredContactId</value>
+      <webElementGuid>5709b5c1-8bff-4376-be80-85b2407b32ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                (No Name Entered)
+Katalon,Test1,contact1
+Katalon,Test2,contact2
+Katalon,Test3,contact3
+</value>
+      <webElementGuid>41342616-6ff4-4342-aac1-60b11aae8d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PreferredContactId&quot;)</value>
+      <webElementGuid>8cc2221d-43a8-4452-9b63-3b5e1f9bd325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PreferredContactId']</value>
+      <webElementGuid>53557e08-7d9c-45b9-9366-20aa3078e0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Profile']/div/div[2]/div[4]/div[2]/select</value>
+      <webElementGuid>2980715b-870d-440f-993c-7d4f242f8487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pref. Contact'])[1]/following::select[1]</value>
+      <webElementGuid>087de223-8967-4de3-ae39-82e0d58a1dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prim. Email'])[1]/following::select[1]</value>
+      <webElementGuid>b09e1224-fa37-4ea2-8ef5-8c3b674ba343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pref. Phone'])[1]/preceding::select[1]</value>
+      <webElementGuid>55385e4e-d42e-4d2c-82de-8462f27a3933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pref. Email'])[1]/preceding::select[1]</value>
+      <webElementGuid>6b87599b-58ba-4c56-a901-d023fdfa8ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/select</value>
+      <webElementGuid>434cd16d-6592-469b-b795-e80e8c5a1668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PreferredContactId' and @name = 'PreferredContactId' and (text() = '
+                    
+                (No Name Entered)
+Katalon,Test1,contact1
+Katalon,Test2,contact2
+Katalon,Test3,contact3
+' or . = '
+                    
+                (No Name Entered)
+Katalon,Test1,contact1
+Katalon,Test2,contact2
+Katalon,Test3,contact3
+')]</value>
+      <webElementGuid>41e8575e-3dec-4947-b32d-3a1976a8c0ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

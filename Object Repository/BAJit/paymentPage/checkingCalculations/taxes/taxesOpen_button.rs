@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>taxesOpen_button</name>
+   <tag></tag>
+   <elementGuidId>8acc5ee8-5f1a-4a95-adb2-2f0d78eb65f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dd[5]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3059cfa5-1500-4bf9-9fb2-2ac451248c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-triangle-bottom good</value>
+      <webElementGuid>0a448fb9-6988-47d8-a9ab-565a6b3adc85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightSearchResults&quot;)/div[@class=&quot;row sidepadding&quot;]/div[1]/div[@class=&quot;baj-results-itinerary-grid-box clearfix&quot;]/div[@class=&quot;col-xs-12 bg-white&quot;]/div[@class=&quot;target-baj-results-trip-itinerary-table&quot;]/div[@class=&quot;col-xs-12 clearfix&quot;]/div[@class=&quot;row border MarginTop MarginBottom&quot;]/div[@class=&quot;col-xs-8 col-sm-4 baj-results-trip-itinerary-trips-cost-details no-padding&quot;]/div[@class=&quot;row no-margin baj-results-itinerary-aircraft-payment-table&quot;]/dl[1]/dd[5]/span[@class=&quot;ONEflightDownDrop pull-right&quot;]/span[@class=&quot;glyphicon glyphicon-triangle-bottom good&quot;]</value>
+      <webElementGuid>64b34ddd-ac96-41bb-b1cd-6a1656caf6dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='FlightSearchResults']/div[2]/div/div/div/div/div/div[5]/div[2]/div/dl/dd[5]/span/span</value>
+      <webElementGuid>3d9747f7-40a0-477e-af63-52fc632ee41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd[5]/span/span</value>
+      <webElementGuid>b06ad965-bec7-422b-9a65-fa5053930f67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

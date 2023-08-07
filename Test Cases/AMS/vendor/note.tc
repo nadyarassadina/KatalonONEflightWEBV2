@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>698a8b5e-c26b-49e6-b1f4-dbcb335dda6b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15056a1d-ed0d-4439-8023-7ce18452fe6d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ef20943-b903-4424-b216-ac183ed33d5a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6252ee2a-ad89-414b-8b0b-28f1dbd81c3e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'note'</defaultValue>
+      <description></description>
+      <id>15056a1d-ed0d-4439-8023-7ce18452fe6d</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+   <variable>
+      <defaultValue>'note1'</defaultValue>
+      <description></description>
+      <id>7ef20943-b903-4424-b216-ac183ed33d5a</id>
+      <masked>false</masked>
+      <name>note1</name>
+   </variable>
+   <variable>
+      <defaultValue>'note2'</defaultValue>
+      <description></description>
+      <id>6252ee2a-ad89-414b-8b0b-28f1dbd81c3e</id>
+      <masked>false</masked>
+      <name>note2</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addressType_dropDown</name>
+   <tag></tag>
+   <elementGuidId>a25c368e-5c8a-4cb6-9ba7-5fa7c05c69d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > div.row > div.col-xs-3 > #AddressTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='AddressTypeId'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c9532214-cf4d-4e69-b7f9-d699c98e6bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control black-tighter-select</value>
+      <webElementGuid>690a17db-2517-4166-95f7-5de0e9294c26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddressTypeId</value>
+      <webElementGuid>ccc50674-9f22-4e52-bb00-91486321fbba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AddressTypeId</value>
+      <webElementGuid>b114bd40-c1cc-4fe7-b220-2d551d54539f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+Office
+Personal
+Other
+Business
+BusinessContact
+Unknown
+Concierge
+</value>
+      <webElementGuid>b9db960b-e829-4b49-a99c-714c27fd5612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContactsDynamic&quot;)/div[@class=&quot;vendor-edit-box target-edit-vendor&quot;]/div[@class=&quot;vendor-contact-edit-body&quot;]/div[@class=&quot;vendor-new-contact&quot;]/table[4]/tbody[1]/tr[2]/td[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-3&quot;]/select[@id=&quot;AddressTypeId&quot;]</value>
+      <webElementGuid>4760c382-b6fe-489a-9736-36348e835de3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='AddressTypeId'])[4]</value>
+      <webElementGuid>b94c697e-07bd-4872-9ff3-859f0417a66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/div[2]/div[2]/div/table[4]/tbody/tr[2]/td/div/div/select</value>
+      <webElementGuid>37b801c5-f242-4e0b-85ef-1ffb77afffbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private Address?'])[1]/following::select[1]</value>
+      <webElementGuid>3ea7e86a-2128-49f9-bf07-034877748156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Type'])[4]/following::select[1]</value>
+      <webElementGuid>4310a690-79f4-4336-af3f-b79d4b47382b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Street 1'])[1]/preceding::select[1]</value>
+      <webElementGuid>fcb65dc2-67eb-4996-879b-fc168bc9a560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Street 2'])[1]/preceding::select[1]</value>
+      <webElementGuid>3215f9b8-ffbd-4178-85bd-f05e9cc1abca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[4]/tbody/tr[2]/td/div/div/select</value>
+      <webElementGuid>5373454c-c8ae-4b1c-a271-44971e031bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AddressTypeId' and @name = 'AddressTypeId' and (text() = 'Select
+Office
+Personal
+Other
+Business
+BusinessContact
+Unknown
+Concierge
+' or . = 'Select
+Office
+Personal
+Other
+Business
+BusinessContact
+Unknown
+Concierge
+')]</value>
+      <webElementGuid>4913aa18-1fd6-4c26-92c6-3a52976f397d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

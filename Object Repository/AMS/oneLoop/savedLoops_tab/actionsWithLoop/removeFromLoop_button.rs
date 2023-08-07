@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>removeFromLoop_button</name>
+   <tag></tag>
+   <elementGuidId>4e4baa4c-91cb-4193-b4eb-328beb4a8d97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='one-loop-selected-legs-tbody']/tr[2]/td/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2e2698fe-710d-4e36-8d2b-1a0a3a2a2bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-selected-legs-tbody&quot;)/tr[2]/td[@class=&quot;one-loop-tool-tip move-to&quot;]/label[1]</value>
+      <webElementGuid>34f29ef6-474a-41d7-a8d8-b12063c72267</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='one-loop-selected-legs-tbody']/tr[2]/td/label</value>
+      <webElementGuid>2ebc6f0d-de5c-40e4-96f5-ec3c5dcd5845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/table/tbody/tr[2]/td/label</value>
+      <webElementGuid>1911e71f-964b-4dd2-8359-cfbd84abd241</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

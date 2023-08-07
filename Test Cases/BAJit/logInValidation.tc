@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logInValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6246142-b622-4797-9d7c-e99fafff5eeb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a1ae3b0-1871-4408-b694-ee20b9309242</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d0424374-9637-4abb-9f31-5fbc11c916dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'rassadinanadezhda3+Cer@gmail.com'</defaultValue>
+      <description></description>
+      <id>3a1ae3b0-1871-4408-b694-ee20b9309242</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUk7/dYNAhyi7jsWswUiag=='</defaultValue>
+      <description></description>
+      <id>d0424374-9637-4abb-9f31-5fbc11c916dd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

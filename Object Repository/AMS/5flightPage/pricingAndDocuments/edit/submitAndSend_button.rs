@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>submitAndSend_button</name>
+   <tag></tag>
+   <elementGuidId>4963f33d-b21f-4206-83ee-19effe56d191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Submit and send flight documents']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.target-flight-plan-edit-confirmed-flight-submit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>75510b3b-5cde-41d4-bfe0-a0f3aeeb2a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e3028e73-102f-41a4-ba7a-76caa4061dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Submit and send flight documents</value>
+      <webElementGuid>c24fdb2a-22f1-41f8-8d0c-04e6e6239205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary target-flight-plan-edit-confirmed-flight-submit</value>
+      <webElementGuid>08b317bf-7f90-4d8d-945d-0c63cef44fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>a363eec0-1480-4c97-99fe-7c2055865ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Submit and send flight documents</value>
+      <webElementGuid>764423ce-2b1c-477c-8eed-99485c647815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-edit-confirmed-flight-form&quot;)/div[@class=&quot;row text-center&quot;]/input[@class=&quot;btn btn-primary target-flight-plan-edit-confirmed-flight-submit&quot;]</value>
+      <webElementGuid>11250ec6-3c77-47bf-903f-245f0f9a40fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Submit and send flight documents']</value>
+      <webElementGuid>faa5e6a3-e7ed-4add-a153-7f887d82a79c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='target-edit-confirmed-flight-form']/div[2]/input[2]</value>
+      <webElementGuid>8444e841-048d-482c-a8ae-1f834df53e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/input[2]</value>
+      <webElementGuid>930f97e5-94d1-4908-9b7e-8c1fdb1c6cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button' and @title = 'Submit and send flight documents']</value>
+      <webElementGuid>8ebb25a3-53d5-45f1-bbd4-e1f6887f12ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

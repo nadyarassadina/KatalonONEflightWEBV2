@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chartercl2Katalon_object</name>
+   <tag></tag>
+   <elementGuidId>1e48836a-9fd1-47f9-b54a-9531a9cf903e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ams-table.target-client-detail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='lead-table']/tbody/tr/td[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0e20d8c1-cef1-4f68-95de-56ad6e85b056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ams-table target-client-detail</value>
+      <webElementGuid>285c1633-f95d-40e4-997b-f09cadc96ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientid</name>
+      <type>Main</type>
+      <value>69309</value>
+      <webElementGuid>2d455246-720f-4dc9-9608-667659611de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Ams/ClientDetail/69309</value>
+      <webElementGuid>a112861a-9648-4976-a7f0-66bc1f3fde80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chartercl2 Katalon</value>
+      <webElementGuid>f6fa48f0-19b5-4639-bab1-1aafc2a5f08d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lead-table&quot;)/tbody[1]/tr[1]/td[3]/a[@class=&quot;ams-table target-client-detail&quot;]</value>
+      <webElementGuid>54ea8c7e-890d-4fb3-95d6-90fed86b1b04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='lead-table']/tbody/tr/td[3]/a</value>
+      <webElementGuid>3c021ad7-f9db-49cf-8119-c1a27ca04593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Chartercl2 Katalon')]</value>
+      <webElementGuid>ac3bc674-4f61-4cef-98de-b756cac62392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAJ'])[3]/following::a[1]</value>
+      <webElementGuid>19e2f8ef-9db5-49b1-abea-db23a2b8ce4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Size:'])[1]/following::a[7]</value>
+      <webElementGuid>60512440-0284-4692-94bd-25e8248c7981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rassadinanadezhda3+charter2@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>43a883b7-7137-49b8-9aed-eff08f724b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(720) 333-7889'])[1]/preceding::a[2]</value>
+      <webElementGuid>3872a2a2-9f78-4590-91e3-c4ec1e7ca334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chartercl2 Katalon']/parent::*</value>
+      <webElementGuid>8fd96e82-1859-42eb-9f97-1f2a1a37cde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Ams/ClientDetail/69309')]</value>
+      <webElementGuid>a495b51e-6fbd-426f-b5a0-ad0b9ded803d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a</value>
+      <webElementGuid>94a686a7-5fd1-4854-beb8-2338d537998c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Ams/ClientDetail/69309' and (text() = 'Chartercl2 Katalon' or . = 'Chartercl2 Katalon')]</value>
+      <webElementGuid>2346e586-740e-4c95-9eef-2a6eda5239c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectPassenger2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b7845e7-6be6-4541-a706-82bc5ffb8a6a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75f203d6-2e6c-4a2f-acf6-211ec72f8ba6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nadya Katalon'</defaultValue>
+      <description></description>
+      <id>75f203d6-2e6c-4a2f-acf6-211ec72f8ba6</id>
+      <masked>false</masked>
+      <name>passenger2</name>
+   </variable>
+</TestCaseEntity>

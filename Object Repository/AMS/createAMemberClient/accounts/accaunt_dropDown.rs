@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>accaunt_dropDown</name>
+   <tag></tag>
+   <elementGuidId>5994ae9f-c6b9-4d87-833b-52bc4804aa3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AccountTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AccountTypeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a14b8be9-173f-4774-b6d2-c413006247e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control black-tight-input tight-input-margin no-border target-account-type-select-prospect-detail-promotions target-client-account-save-form</value>
+      <webElementGuid>0e6f56b2-1464-44b6-9cb4-1a9af0bad641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>99468105-66cd-4895-bea0-9f8c3ee1fa3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>Account type is required</value>
+      <webElementGuid>c8407ca0-e058-4377-824e-5498279f978f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AccountTypeId</value>
+      <webElementGuid>f90e2b95-384f-4f33-81d2-2f0c26ddb398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AccountTypeId</value>
+      <webElementGuid>854becaf-27d2-4ece-a041-d29542ffaa80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+Membership
+JetCard
+Charter
+</value>
+      <webElementGuid>863b2f83-4ad5-46ee-8166-81129359bf81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccountTypeId&quot;)</value>
+      <webElementGuid>285fe059-96ec-45be-bd4b-66766bb44897</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AccountTypeId']</value>
+      <webElementGuid>d4d27099-18c2-40a6-8307-f0663db91d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccountInfo']/div/div/div/div/div[2]/div[3]/select</value>
+      <webElementGuid>fe41239e-a8fa-482b-a3a7-7fe4032596a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account:'])[1]/following::select[1]</value>
+      <webElementGuid>2ca2999a-7122-47bb-82e7-1302868446c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DBA:'])[1]/following::select[1]</value>
+      <webElementGuid>c1096ea9-cb3d-4a86-9953-8c3e26f1a6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annual Type:'])[1]/preceding::select[1]</value>
+      <webElementGuid>9f041805-1752-43f5-846f-3d957f3849b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activation Date:'])[1]/preceding::select[2]</value>
+      <webElementGuid>667703c3-1eed-4ec9-b96b-13f49e0b3e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>983662f1-9d65-4a2e-931f-5baf8634a7e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AccountTypeId' and @name = 'AccountTypeId' and (text() = 'Select
+Membership
+JetCard
+Charter
+' or . = 'Select
+Membership
+JetCard
+Charter
+')]</value>
+      <webElementGuid>2b429f7d-8849-43ee-a047-2af15c158421</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

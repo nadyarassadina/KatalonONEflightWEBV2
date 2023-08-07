@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vinaigretteDressing_checkBox</name>
+   <tag></tag>
+   <elementGuidId>31e4ef05-3af3-4863-a2b3-163a6157ae69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='GardenSalad-options']/li[5]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e71a521b-6d30-4eb2-9ef6-111b90a85bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>GardenSaladVinaigrette Dressing</value>
+      <webElementGuid>654adbf7-733b-46a7-9fb3-bf912585cc63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vinaigrette Dressing</value>
+      <webElementGuid>d9aa3145-9282-47a7-8d70-1a6ce1faa3f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GardenSalad-options&quot;)/li[5]/label[1]</value>
+      <webElementGuid>cbda6a81-54bd-4b76-9bc1-01dbe0bbd6ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='GardenSalad-options']/li[5]/label</value>
+      <webElementGuid>97e09d5b-8435-4ba7-987d-cff4a07957b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cheese Dressing'])[2]/following::label[1]</value>
+      <webElementGuid>e8de9feb-8072-4c27-9147-ab91605037a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caesar Dressing'])[2]/following::label[2]</value>
+      <webElementGuid>6b2d6058-89e6-40e3-9731-5a5aa107d799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[3]/preceding::label[1]</value>
+      <webElementGuid>3c54ff4c-c8d4-4147-9025-3730ca17e8f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lunch'])[1]/preceding::label[1]</value>
+      <webElementGuid>eebbee99-5550-45c1-a55f-db37c55dc856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4[4]/ul/li[5]/label</value>
+      <webElementGuid>370ad67c-7996-43c5-b2fc-20187b8a17ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Vinaigrette Dressing' or . = 'Vinaigrette Dressing')]</value>
+      <webElementGuid>03a6cb88-3cf4-4880-ae73-607bd19371ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

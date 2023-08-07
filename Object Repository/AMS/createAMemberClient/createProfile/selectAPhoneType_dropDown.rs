@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectAPhoneType_dropDown</name>
+   <tag></tag>
+   <elementGuidId>6c702a78-a97e-484d-84a7-bc240509c070</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PhoneTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PhoneTypeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>23671506-3b7c-4612-bf2f-bf2495242024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control black-tight-input target-popup-field</value>
+      <webElementGuid>2ca6592f-bba9-471a-9e16-d18fda3bd3d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ab2a4795-0adf-4df6-a9a7-6909f11c3109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The PhoneTypeId field is required.</value>
+      <webElementGuid>5f8b91e7-ea5b-450a-907d-4be0edb413b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PhoneTypeId</value>
+      <webElementGuid>e730a1fe-d677-48a3-990e-9254728620ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PhoneTypeId</value>
+      <webElementGuid>6e5cf322-2a5b-4974-97c7-97f979c45fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a phone type
+Cell
+Home
+Work
+Business
+Contact
+Other
+</value>
+      <webElementGuid>eb6dce72-ba51-4102-9426-7a8c08c0574f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PhoneTypeId&quot;)</value>
+      <webElementGuid>d613965b-ea7d-475b-8feb-977f75de0798</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PhoneTypeId']</value>
+      <webElementGuid>4afa89d1-9377-447e-b577-f3d34b4409b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='NewPhoneNumber']/div/select</value>
+      <webElementGuid>1cf7647e-4b7b-4a5d-877b-7326d8bbcd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Type'])[1]/following::select[1]</value>
+      <webElementGuid>6962e6f1-cb36-4bd1-b885-bf13e105f9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[2]/following::select[1]</value>
+      <webElementGuid>143e49d1-3bc9-4905-ba04-08d4bfc5bca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/preceding::select[1]</value>
+      <webElementGuid>b11cacca-7f36-4448-8578-0eb7aeb6968a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nickname'])[1]/preceding::select[1]</value>
+      <webElementGuid>40e71df5-b383-4a3d-839f-e6d2f2128845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/select</value>
+      <webElementGuid>26ce3ea7-4934-4edc-8945-0b1837d95d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PhoneTypeId' and @name = 'PhoneTypeId' and (text() = 'Select a phone type
+Cell
+Home
+Work
+Business
+Contact
+Other
+' or . = 'Select a phone type
+Cell
+Home
+Work
+Business
+Contact
+Other
+')]</value>
+      <webElementGuid>283ae252-ef51-4327-a497-52d5b40b5d5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

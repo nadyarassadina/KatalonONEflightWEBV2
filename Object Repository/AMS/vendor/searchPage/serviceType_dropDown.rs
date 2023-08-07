@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>serviceType_dropDown</name>
+   <tag></tag>
+   <elementGuidId>bedfd906-4203-4f6d-bdb7-962fbfb56260</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ServiceId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ServiceId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8f0ea4c8-6b3f-4295-a03f-e845ee821efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-label black-tight-input target-vendor-search target-filter-element</value>
+      <webElementGuid>66a2b9fa-dffc-4f54-88d6-f75ef1b8c247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-service-id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f9c89290-68fa-41fb-8b6b-4476abd69e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6c5a030f-5461-4937-aab8-4e9b27c544c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The Service Type field is required.</value>
+      <webElementGuid>be0c4567-43bd-445d-ac27-d04aa9163edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ServiceId</value>
+      <webElementGuid>9a2ee4a0-ba20-4bf8-a0ab-1598a9ad44dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>VendorServiceId</value>
+      <webElementGuid>1189bba6-dd33-4d15-a9a8-85ae7e946a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Service Type
+Catering
+Transportation
+Other
+Car Rental
+</value>
+      <webElementGuid>2e370a27-f3ce-4164-9b41-99b8c10f0e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ServiceId&quot;)</value>
+      <webElementGuid>5a7fbf18-7d8b-4333-9f66-de45b53b9ce3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ServiceId']</value>
+      <webElementGuid>45bd638f-7468-4327-8797-4d94cd062a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='VendorSearch']/select[2]</value>
+      <webElementGuid>991da0a9-b33b-49c9-a78a-ffe86c8f5a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Search'])[1]/following::select[2]</value>
+      <webElementGuid>0cd9e367-f80f-4a2a-a2db-5280613a3b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+Add a New Vendor'])[1]/preceding::select[1]</value>
+      <webElementGuid>65bebc50-4f38-4476-99b1-219efb82708f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::select[1]</value>
+      <webElementGuid>60e6db74-561f-48b8-828c-69244246adf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>cfff2a7f-9fdd-4601-aaa9-ea233ea0b0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ServiceId' and @name = 'VendorServiceId' and (text() = 'Service Type
+Catering
+Transportation
+Other
+Car Rental
+' or . = 'Service Type
+Catering
+Transportation
+Other
+Car Rental
+')]</value>
+      <webElementGuid>16e4698c-2ffc-48f1-8258-6bba0519a096</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addrContact_dropDown</name>
+   <tag></tag>
+   <elementGuidId>88a6b9d4-8197-4367-abf8-092ddc75ecf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AddressContactId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AddressContactId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0c73ca7f-7610-40b3-bac9-60160c46bff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control black-tight-select</value>
+      <webElementGuid>2837583a-56c5-4392-9ba9-4e4a5a585e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddressContactId</value>
+      <webElementGuid>d5594497-de27-49b3-b1dd-11cd5275f145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AddressContactId</value>
+      <webElementGuid>eea2437d-9251-41c7-a361-7b4fe8ddbff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                (No Name Entered)
+Katalon,Test1,contact1
+Katalon,Test2,contact2
+Katalon,Test3,contact3
+</value>
+      <webElementGuid>a2b08667-5686-473e-84c4-89ae0d642f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddressContactId&quot;)</value>
+      <webElementGuid>f57d57a3-c85f-46b7-901d-86124d0aa175</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AddressContactId']</value>
+      <webElementGuid>72bb2c02-d06f-4765-9d44-455f8c06e05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Profile']/div/div[2]/div[5]/div[2]/select</value>
+      <webElementGuid>686fbf15-cf0b-4c64-adb8-c1314c004f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addr. Contact'])[1]/following::select[1]</value>
+      <webElementGuid>e3bac684-7daa-4ef7-b6d9-c308dd276953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pref. Email'])[1]/following::select[1]</value>
+      <webElementGuid>7dae750c-a672-48b1-b2a4-bb38db6dd172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport'])[1]/preceding::select[1]</value>
+      <webElementGuid>07a8ff87-e713-4d5e-aa29-7334eeb656a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Saftey'])[1]/preceding::select[1]</value>
+      <webElementGuid>c2685a12-078c-4e85-89dc-49e849446448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/select</value>
+      <webElementGuid>5ae5748d-9cef-494c-87ce-98cc31f53fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AddressContactId' and @name = 'AddressContactId' and (text() = '
+                    
+                (No Name Entered)
+Katalon,Test1,contact1
+Katalon,Test2,contact2
+Katalon,Test3,contact3
+' or . = '
+                    
+                (No Name Entered)
+Katalon,Test1,contact1
+Katalon,Test2,contact2
+Katalon,Test3,contact3
+')]</value>
+      <webElementGuid>11fde88c-28e0-4fe8-9a4f-43b705d413bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

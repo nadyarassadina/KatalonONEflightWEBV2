@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addNewContact_button</name>
+   <tag></tag>
+   <elementGuidId>e84d1753-b8a5-4778-b533-8dafa307d3d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.of-red.target-contact-new</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContactsDynamic']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bca1f66e-6123-4fb0-b8ee-6811dce5c9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>2ac525f5-e717-4b43-8560-ed794c062aca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-operator-id</name>
+      <type>Main</type>
+      <value>1035</value>
+      <webElementGuid>3cf58782-935c-4159-9c13-4a1f1c140022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>of-red target-contact-new</value>
+      <webElementGuid>df9c6a26-cab0-46ff-9381-dc5e80ce30f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+Add New Contact</value>
+      <webElementGuid>c8298345-e141-4530-978b-016bc7f2a5f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Contacts&quot;)/div[@class=&quot;row&quot;]/div[@id=&quot;ContactsDynamic&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;ContactsDynamic&quot;]/div[@class=&quot;float-right&quot;]/a[@class=&quot;of-red target-contact-new&quot;]</value>
+      <webElementGuid>41a6705a-b88e-4cdc-b0ff-2e8abf9c75c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/div/a</value>
+      <webElementGuid>ea61ba5d-db15-4a0f-980d-078ff69dfae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'+Add New Contact')]</value>
+      <webElementGuid>45601ce6-5f77-40e3-a63a-aa6af04076bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[2]/following::a[1]</value>
+      <webElementGuid>506b23ba-d1d8-4b80-b138-0d581cb4039b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAJ Safety'])[2]/following::a[1]</value>
+      <webElementGuid>dcb629ce-c04c-41c9-a7ad-670686f11652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Contacts'])[1]/preceding::a[1]</value>
+      <webElementGuid>6a493120-b1bb-4b00-950a-c7ae7dfe9bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/preceding::a[1]</value>
+      <webElementGuid>a61f4bd1-a048-4bb1-a1f8-6ba11abc0edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+Add New Contact']/parent::*</value>
+      <webElementGuid>277096b1-3faa-41b3-b645-5a01d9ee450b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0);')]</value>
+      <webElementGuid>5aab5164-3c02-450f-91d4-ac7e7efc7d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>999ebeb2-d902-4c52-8ab4-6b3dba7618b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '+Add New Contact' or . = '+Add New Contact')]</value>
+      <webElementGuid>6878824b-6386-402c-aad5-1c5f015f2991</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

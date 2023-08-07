@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>annualType_dropDown</name>
+   <tag></tag>
+   <elementGuidId>dfadb3ba-1fc7-423e-a941-cfe06b82e96b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AccountNextActionTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AccountNextActionTypeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>44573b1e-e787-484b-8907-b37a2c2053a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control black-tight-select tight-input-margin target-client-account-save-form</value>
+      <webElementGuid>e6e18f20-0b63-466a-90ba-193b5fa235ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7467e638-08e8-4213-bebf-15cb6be74a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>Next Action Type is required</value>
+      <webElementGuid>7a888f69-bf9e-4331-acad-c04f163f7461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AccountNextActionTypeId</value>
+      <webElementGuid>804a2829-61f8-4318-9fed-db1c63c36c53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AccountNextActionTypeId</value>
+      <webElementGuid>7c513dd2-5930-4422-adc5-85ab1ce16081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select
+Expiration
+Maintenance
+</value>
+      <webElementGuid>4e390752-c0b5-40db-ab24-dac1a0d1fb26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccountNextActionTypeId&quot;)</value>
+      <webElementGuid>f0b26efe-e3fb-49ad-9a31-a9759659bf71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AccountNextActionTypeId']</value>
+      <webElementGuid>08dd6ea0-8a1f-444b-9b9a-008a702e7887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccountInfo']/div/div/div/div/div[2]/div[4]/select</value>
+      <webElementGuid>4fe15b87-8b96-40ac-9b76-a062195b6f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annual Type:'])[1]/following::select[1]</value>
+      <webElementGuid>2c6d9894-336e-4955-a7a7-3a61e78e5573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account:'])[1]/following::select[2]</value>
+      <webElementGuid>7081a411-fa0a-4ac7-a3ee-771f77887969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activation Date:'])[1]/preceding::select[1]</value>
+      <webElementGuid>0337304b-ce39-4fd8-a532-d8d4d620b451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Contact:'])[1]/preceding::select[1]</value>
+      <webElementGuid>75633df6-06d8-4262-a214-3851c7530d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/select</value>
+      <webElementGuid>0869bf49-a1bf-416e-b060-c838845f89d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AccountNextActionTypeId' and @name = 'AccountNextActionTypeId' and (text() = 'Select
+Expiration
+Maintenance
+' or . = 'Select
+Expiration
+Maintenance
+')]</value>
+      <webElementGuid>5ab0e9f6-12d5-46c5-8fd8-cc08c50ff764</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>marinaraSauce_checkBox</name>
+   <tag></tag>
+   <elementGuidId>e9959ab4-25d6-4ae6-b42f-208ad54c1680</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Pasta-options']/li[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ac6eaa6c-4e5d-4633-9c3e-9787997f1a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>PastaMarinara Sauce</value>
+      <webElementGuid>654bd9fc-f9da-4a93-bf9a-9893b3d1d099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marinara Sauce</value>
+      <webElementGuid>2842188f-05b5-4f11-8414-0834d455dc9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Pasta-options&quot;)/li[3]/label[1]</value>
+      <webElementGuid>5230fe40-0003-4c0f-8005-bcaa509e01d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Pasta-options']/li[3]/label</value>
+      <webElementGuid>6bd0eaee-f243-462e-b473-263861c2e873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Butter'])[1]/following::label[1]</value>
+      <webElementGuid>9a87d9d4-b981-4d6a-a19c-1f7fdd61dea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[17]/following::label[2]</value>
+      <webElementGuid>3bec6858-7a14-4676-8376-fba00c766805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alfredo Sauce'])[1]/preceding::label[1]</value>
+      <webElementGuid>2831f048-e3ca-4a15-bff8-c97533295ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesto Sauce'])[1]/preceding::label[2]</value>
+      <webElementGuid>b8a2c5d2-1e03-4365-ba1c-485ac6217fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marinara Sauce']/parent::*</value>
+      <webElementGuid>704edd59-16a5-4371-b7bb-4bc148b3d155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/h4[4]/ul/li[3]/label</value>
+      <webElementGuid>66553686-981b-4d91-8cf1-f2f68342c00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Marinara Sauce' or . = 'Marinara Sauce')]</value>
+      <webElementGuid>2c04a2c0-58fd-421c-bb1f-49d1aa96c693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

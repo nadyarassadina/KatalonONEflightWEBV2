@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>editPhone_button</name>
+   <tag></tag>
+   <elementGuidId>69f4cfcc-bac9-48a9-bed3-52dc456787b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td:nth-of-type(3) > div:nth-of-type(3) > a.of-link-black > i.fas.fa-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContactsDynamic']/table/tbody/tr[3]/td[3]/div[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f942b5fd-b3ea-4ab1-bc1e-ae028961bb32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-edit</value>
+      <webElementGuid>86f1ea63-4455-4b8d-a3ab-97abb3c32829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContactsDynamic&quot;)/table[@class=&quot;table ams-table black vendor-contact-table&quot;]/tbody[1]/tr[3]/td[3]/div[3]/a[@class=&quot;of-link-black&quot;]/i[@class=&quot;fas fa-edit&quot;]</value>
+      <webElementGuid>447f6742-aba2-41e5-93d1-001e12b35e4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/table/tbody/tr[3]/td[3]/div[3]/a/i</value>
+      <webElementGuid>6dae3497-7eb9-42e8-acef-1616fdb06edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/div[3]/a/i</value>
+      <webElementGuid>bfe30eb8-357b-423c-9430-5580e4c5dd70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

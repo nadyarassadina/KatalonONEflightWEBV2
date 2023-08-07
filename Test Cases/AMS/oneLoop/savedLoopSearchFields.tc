@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>savedLoopSearchFields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>123eb105-4f27-439b-9251-8c9fabdb34a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a87ae95e-a1c9-46eb-9937-ed7d9b34aa7d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>584e471a-a2ae-41eb-bb91-527409abf9a1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27256690-288f-43b6-95cb-27993f4ca1eb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17eb5ca9-fd75-419e-aeac-523e5fa5454b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6c91e6c-1561-4d8a-acbc-f36bd531c856</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a8ca248-3b1f-413c-838d-4a990cf1de46</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Not Activated'</defaultValue>
+      <description></description>
+      <id>a87ae95e-a1c9-46eb-9937-ed7d9b34aa7d</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+   <variable>
+      <defaultValue>'NadyaSA Katalon'</defaultValue>
+      <description></description>
+      <id>584e471a-a2ae-41eb-bb91-527409abf9a1</id>
+      <masked>false</masked>
+      <name>owner</name>
+   </variable>
+   <variable>
+      <defaultValue>'26 North Aviation'</defaultValue>
+      <description></description>
+      <id>27256690-288f-43b6-95cb-27993f4ca1eb</id>
+      <masked>false</masked>
+      <name>operator</name>
+   </variable>
+   <variable>
+      <defaultValue>'Citation X'</defaultValue>
+      <description></description>
+      <id>17eb5ca9-fd75-419e-aeac-523e5fa5454b</id>
+      <masked>false</masked>
+      <name>aircraft</name>
+   </variable>
+   <variable>
+      <defaultValue>'First Leg Departure Date'</defaultValue>
+      <description></description>
+      <id>b6c91e6c-1561-4d8a-acbc-f36bd531c856</id>
+      <masked>false</masked>
+      <name>dateFilter</name>
+   </variable>
+   <variable>
+      <defaultValue>'05/10/2023'</defaultValue>
+      <description></description>
+      <id>4a8ca248-3b1f-413c-838d-4a990cf1de46</id>
+      <masked>false</masked>
+      <name>dateFrom</name>
+   </variable>
+</TestCaseEntity>

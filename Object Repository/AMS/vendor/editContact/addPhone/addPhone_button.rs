@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addPhone_button</name>
+   <tag></tag>
+   <elementGuidId>96a2d3b0-6386-42c9-82de-a065a1f7d051</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td:nth-of-type(3) > div.float-right > a.add-to-vendor-contact-button > i.fas.fa-plus-circle.fa-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContactsDynamic']/table/tbody/tr[3]/td[3]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>16d1cb76-ad04-417e-b742-4e32e9018ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus-circle fa-lg</value>
+      <webElementGuid>c2ef3295-6a5e-48ba-aaa4-aed59b861be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContactsDynamic&quot;)/table[@class=&quot;table ams-table black vendor-contact-table&quot;]/tbody[1]/tr[3]/td[3]/div[@class=&quot;float-right&quot;]/a[@class=&quot;add-to-vendor-contact-button&quot;]/i[@class=&quot;fas fa-plus-circle fa-lg&quot;]</value>
+      <webElementGuid>97832ab0-3629-4f59-bb65-6b2845dc21db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/table/tbody/tr[3]/td[3]/div/a/i</value>
+      <webElementGuid>31046134-7312-41c1-bfd2-58ffa177e7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/div/a/i</value>
+      <webElementGuid>91cf1f31-b193-4cf2-8333-a8994666c889</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

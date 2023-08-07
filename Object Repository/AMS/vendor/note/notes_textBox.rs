@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>notes_textBox</name>
+   <tag></tag>
+   <elementGuidId>7d11d010-7a37-40c5-899a-1e097b6d36e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.target-vendor-new-note.note-add-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Notes']/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>c8255f48-ccb7-4e77-917d-093d6b62bed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-vendor-new-note note-add-box</value>
+      <webElementGuid>f19fca0d-5ff9-40b5-b696-09e5b57b3eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Notes&quot;)/div[1]/textarea[@class=&quot;target-vendor-new-note note-add-box&quot;]</value>
+      <webElementGuid>8375a1fa-f1ac-4dae-aa68-8f81c7c4ff9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Notes']/div/textarea</value>
+      <webElementGuid>ddaa5012-f104-4f7f-a9dd-e3e7d6be687f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>b0b6170c-c747-4389-9980-a73a625236a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

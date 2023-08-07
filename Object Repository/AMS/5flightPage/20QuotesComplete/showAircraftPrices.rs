@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>showAircraftPrices</name>
+   <tag></tag>
+   <elementGuidId>4313e854-342a-4b76-950f-251cfde41f0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Show Aircraft Prices']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.target-display-all-aircraft-prices</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1799de3e-1ba2-4279-a2a0-1b6d133bca7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b4c1e702-e017-4cd7-a956-a908c358a9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary target-display-all-aircraft-prices</value>
+      <webElementGuid>65ef7580-b683-4027-b106-00dd37655046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Show Aircraft Prices</value>
+      <webElementGuid>ee84cb72-a07f-4281-82ff-aaa0e6c9c404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OperatorQuotes&quot;)/div[@class=&quot;col-xs-12 float-right text-right&quot;]/input[@class=&quot;btn btn-primary target-display-all-aircraft-prices&quot;]</value>
+      <webElementGuid>801cbd59-3858-43b5-a01d-6c08c16a32fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Show Aircraft Prices']</value>
+      <webElementGuid>57bf02fb-ab4a-471c-88fa-1dc983c5ecb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='OperatorQuotes']/div/input</value>
+      <webElementGuid>315ae4fa-d2fe-4810-9529-b50d3909f7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/div/div/input</value>
+      <webElementGuid>038cc0f3-55bd-4716-95f6-410d4ee305e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>946da08d-ce1e-4d6e-a9c9-43129e134aac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

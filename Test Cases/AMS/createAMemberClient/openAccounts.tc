@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>openAccounts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26bd4229-8601-4f1a-97a5-0151f1469888</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9343b0ef-c75c-40db-a36e-c73724f55425</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'firstName'</defaultValue>
+      <description></description>
+      <id>9343b0ef-c75c-40db-a36e-c73724f55425</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+</TestCaseEntity>

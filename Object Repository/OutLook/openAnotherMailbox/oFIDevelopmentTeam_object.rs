@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>oFIDevelopmentTeam_object</name>
+   <tag></tag>
+   <elementGuidId>9d6905fe-0fd3-4365-97b6-c57f920f8985</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='sug-item0']/span/div/div/div/div[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.MwdHX</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7c2aac6-b1ed-426d-b958-6c96635722b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MwdHX</value>
+      <webElementGuid>287d2fb6-1fbb-408f-be47-32d761927c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OFI Development Team</value>
+      <webElementGuid>057f5af9-a809-4c3d-9f7b-c6ef1a2b1073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sug-item0&quot;)/span[@class=&quot;ms-Button-flexContainer flexContainer-299&quot;]/div[@class=&quot;DjFbO full&quot;]/div[@class=&quot;container-422&quot;]/div[@class=&quot;personaContainer-423&quot;]/div[@class=&quot;personaText-425 e9VHg full&quot;]/span[@class=&quot;LudGC full&quot;]/span[@class=&quot;MwdHX&quot;]</value>
+      <webElementGuid>bb3318de-5f0f-49bb-bdd1-a99d9ea2b198</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='sug-item0']/span/div/div/div/div[2]/span/span</value>
+      <webElementGuid>d04ed682-44de-45b7-942f-b5b6f297ffdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OT'])[1]/following::span[2]</value>
+      <webElementGuid>f56d49f8-d66d-4a78-b978-89e91909d3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[4]</value>
+      <webElementGuid>20eed092-1478-4e76-9605-d4a2ae58a0d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ofidev@oneflight.net'])[1]/preceding::span[1]</value>
+      <webElementGuid>f9b17b91-526d-4141-a17e-8dab7213555a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OD'])[1]/preceding::span[3]</value>
+      <webElementGuid>6c18d61b-e24b-4e88-9108-9954b567556e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OFI Development Team']/parent::*</value>
+      <webElementGuid>17547b03-252e-4480-a464-f20fb6d6560b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div[2]/span/span</value>
+      <webElementGuid>90345a62-3384-4a2c-82eb-b252bd101dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OFI Development Team' or . = 'OFI Development Team')]</value>
+      <webElementGuid>ea108308-64b4-4ffd-ac27-1946c568c42c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

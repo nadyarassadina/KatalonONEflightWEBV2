@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>client_Object</name>
+   <tag></tag>
+   <elementGuidId>03cf0098-9c28-4101-b604-d1df4f5c614c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ams-table.target-client-detail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='lead-table']/tbody/tr/td[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00dfd834-84fd-4161-bdae-8e675ec23bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ams-table target-client-detail</value>
+      <webElementGuid>815856fc-9c6a-4834-b557-3466cf6f96bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientid</name>
+      <type>Main</type>
+      <value>69322</value>
+      <webElementGuid>1023dc0b-f450-441b-850b-1ecd8eeb25f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Ams/ClientDetail/69322</value>
+      <webElementGuid>a0765a5c-92af-439d-9c20-e57139e33e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test888 K</value>
+      <webElementGuid>561e46ee-5174-413a-853a-5cd3e6bee0f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lead-table&quot;)/tbody[1]/tr[1]/td[3]/a[@class=&quot;ams-table target-client-detail&quot;]</value>
+      <webElementGuid>72966167-d080-4ee3-b4a8-774a30a557c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='lead-table']/tbody/tr/td[3]/a</value>
+      <webElementGuid>db28cd86-2047-4172-8636-4fe0aa7b74e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test888 K')]</value>
+      <webElementGuid>157da6a0-68b8-4120-bc88-0a21be3a91e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAJ'])[3]/following::a[1]</value>
+      <webElementGuid>14e1e76f-938f-481c-94eb-0856787507cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Size:'])[1]/following::a[7]</value>
+      <webElementGuid>02d59d46-080f-4e89-b6d1-db525a9d1570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test+8@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>ab2176c7-bd44-4447-8379-ca8ce9687a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(720) 279-5657'])[1]/preceding::a[2]</value>
+      <webElementGuid>9ffbf5b2-532c-4dee-8f1b-02dd08de2881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test888 K']/parent::*</value>
+      <webElementGuid>f9f0fe61-ba56-434c-a3b5-63b767b9acb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Ams/ClientDetail/69322')]</value>
+      <webElementGuid>07562178-7552-4d5d-8341-d11684d38214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a</value>
+      <webElementGuid>e41facfb-0f46-42fa-aabf-71dc1938d431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Ams/ClientDetail/69322' and (text() = 'Test888 K' or . = 'Test888 K')]</value>
+      <webElementGuid>82c4bddb-f743-45e3-88e5-7df91c445cfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

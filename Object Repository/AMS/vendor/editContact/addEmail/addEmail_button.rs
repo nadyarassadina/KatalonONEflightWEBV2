@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addEmail_button</name>
+   <tag></tag>
+   <elementGuidId>7b03d47a-17e2-49e8-9099-9335b221cb2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td:nth-of-type(4) > div.float-right > a.New.Email > i.fas.fa-plus-circle.fa-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContactsDynamic']/table/tbody/tr[3]/td[4]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4a4957e7-37eb-43c2-8a29-60a490abfff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus-circle fa-lg</value>
+      <webElementGuid>e33fe7d3-2ff4-4d7a-9213-45dd8044c4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContactsDynamic&quot;)/table[@class=&quot;table ams-table black vendor-contact-table&quot;]/tbody[1]/tr[3]/td[4]/div[@class=&quot;float-right&quot;]/a[@class=&quot;New Email&quot;]/i[@class=&quot;fas fa-plus-circle fa-lg&quot;]</value>
+      <webElementGuid>547044b7-4d01-4b8f-b577-53d975cd83e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/table/tbody/tr[3]/td[4]/div/a/i</value>
+      <webElementGuid>c92aeb70-29b6-417c-b244-b34d55870aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/div/a/i</value>
+      <webElementGuid>4e1827d2-2ed4-477f-a719-4395b8e2afb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

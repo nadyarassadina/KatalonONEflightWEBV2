@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addANewPilot_button</name>
+   <tag></tag>
+   <elementGuidId>7ec58a69-45c5-41ba-b4be-84bc3e8c1c18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.of-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Pilots']/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd4562c7-676d-4a03-ac70-9c0c62960c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>of-link</value>
+      <webElementGuid>2155ac6c-9314-4b95-9622-012348646255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Operator/PilotAdd?Id=1037</value>
+      <webElementGuid>69b1924c-5afa-4e22-b863-a3d578455a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+Add a New Pilot</value>
+      <webElementGuid>48fbe86b-a5da-4f84-a002-b0f070440d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Pilots&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;float-right no-margin&quot;]/a[@class=&quot;of-link&quot;]</value>
+      <webElementGuid>8f7c67e8-8314-43fc-b2b0-c237b8d0b200</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Pilots']/div/div[2]/a</value>
+      <webElementGuid>a82ac9a7-16fe-4176-bd6b-0ee3d873c650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'+Add a New Pilot')]</value>
+      <webElementGuid>97d609ac-a83a-49bc-bc3f-1d772d30b6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Pilots'])[1]/following::a[1]</value>
+      <webElementGuid>76c258ec-6793-4d18-aed0-462ebc7f5cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0'])[1]/following::a[4]</value>
+      <webElementGuid>66a1f3c4-80ba-41ba-b8d5-a7eeba1e8c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>8df82b46-9fc1-4a9f-b4d3-2f7479b471c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>6f6538c3-76b1-4cd2-bf6c-12129f9d606f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+Add a New Pilot']/parent::*</value>
+      <webElementGuid>ce0c60c3-7361-4685-a976-c3832a208719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Operator/PilotAdd?Id=1037')]</value>
+      <webElementGuid>e2a4d548-51e2-4e51-a771-3fc9626f061e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>4a0f91cc-24cc-452a-8a64-7bd8da501933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Operator/PilotAdd?Id=1037' and (text() = '+Add a New Pilot' or . = '+Add a New Pilot')]</value>
+      <webElementGuid>9ee9a811-2abb-47e6-988e-d3ef44226521</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

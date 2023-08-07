@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>back_button</name>
+   <tag></tag>
+   <elementGuidId>68158daf-9549-47ef-8ba7-072a7222dbee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='one-loop-saved-loops']/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.target-pager-back.target-pager-input.target-pager-back-new.btn.btn-default.btn-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2b81fa82-1f95-4683-a193-92c7ca61a0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-pager-back target-pager-input target-pager-back-new btn btn-default btn-xs</value>
+      <webElementGuid>37a84386-59ca-4103-98ad-ad0eb5c06368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt; Back</value>
+      <webElementGuid>37911286-5abc-4b6e-8222-231e13e47469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-saved-loops&quot;)/div[2]/div[@class=&quot;float-right&quot;]/button[@class=&quot;target-pager-back target-pager-input target-pager-back-new btn btn-default btn-xs&quot;]</value>
+      <webElementGuid>cb2eca8f-26c4-4e90-95e6-333ac5c0b6e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-saved-loops']/div[2]/div[2]/button</value>
+      <webElementGuid>ab63d4b4-c357-4d99-bc09-7dc12665bb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new Loop'])[1]/following::button[1]</value>
+      <webElementGuid>4f33966f-9d9b-4111-b936-bc154202bf2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date To'])[1]/following::button[1]</value>
+      <webElementGuid>2701f67f-379f-4588-afd1-f244ffb300aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of 4'])[1]/preceding::button[1]</value>
+      <webElementGuid>f9d246c9-de57-4ed0-b299-17ee8c720f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forward >'])[1]/preceding::button[1]</value>
+      <webElementGuid>5ebd7863-c9f6-4171-b12d-813ba09d502b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='&lt; Back']/parent::*</value>
+      <webElementGuid>4634399a-cc57-4d05-8c35-ffcb01977630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>6bac62a3-7cce-4c47-a6af-ade42e701550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '&lt; Back' or . = '&lt; Back')]</value>
+      <webElementGuid>64bfdcd2-7b70-449a-9b8a-2dfcbab350ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addLink3_button</name>
+   <tag></tag>
+   <elementGuidId>62a1c110-8ed6-435a-92fe-32cff56e62f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Profile']/div[3]/div[3]/table/tbody/tr[3]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ams-table.target-add-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>978da7ef-8c2b-4a2d-ab29-eebdd1324292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>b8bbe081-78da-4fdb-b866-c4c832357111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ams-table target-add-link</value>
+      <webElementGuid>51212d2f-3a64-4021-8f4d-dd391a9ac514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Add Link</value>
+      <webElementGuid>16936640-b9c6-4cb9-9c35-0f8f06b99237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Profile&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-4&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[3]/td[1]/a[@class=&quot;ams-table target-add-link&quot;]</value>
+      <webElementGuid>9a12e4f7-91fb-4fda-91f8-b6ae44051754</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Profile']/div[3]/div[3]/table/tbody/tr[3]/td/a</value>
+      <webElementGuid>08b90e07-0c26-4a2c-9983-cd58548a6209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'+ Add Link')]</value>
+      <webElementGuid>25128590-341b-4be6-b785-a0e76384841c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gsg'])[1]/following::a[2]</value>
+      <webElementGuid>a962278a-521c-44bc-9d1e-965a836c7d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='http://gdfg'])[1]/following::a[2]</value>
+      <webElementGuid>286cdc14-3841-49b0-9246-52c2c91b3f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Contact'])[1]/preceding::a[1]</value>
+      <webElementGuid>128d8031-246c-4b29-83aa-f0e7e30b687b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Contacts'])[1]/preceding::a[2]</value>
+      <webElementGuid>67b516c7-aa7e-4ce6-a64c-00d6f1d7575a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Add Link']/parent::*</value>
+      <webElementGuid>6717c709-235d-49c0-a73f-964f8beec520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[12]</value>
+      <webElementGuid>4c43e14a-802e-44de-b4b3-43fe53b9ebab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr[3]/td/a</value>
+      <webElementGuid>aec39803-696b-4862-8e45-dd77d0c4b261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '+ Add Link' or . = '+ Add Link')]</value>
+      <webElementGuid>a21db420-6238-497b-9f4e-e286c861f6c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

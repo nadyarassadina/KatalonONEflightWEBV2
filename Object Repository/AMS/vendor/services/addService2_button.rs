@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addService2_button</name>
+   <tag></tag>
+   <elementGuidId>e1bca67e-8c16-474c-99e4-ebc078ea2b23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Profile']/div[3]/div/table/tbody/tr[3]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ams-table.target-add-service</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fac4fe2f-04f9-4f31-a6b4-6945761f3400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>6fbdfd5f-b9b8-4f49-9684-7b1f8802d11b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ams-table target-add-service</value>
+      <webElementGuid>808953fb-165c-4384-99da-5cda8bfd9da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Add Service</value>
+      <webElementGuid>eae1ab2a-19f8-4950-859d-cde0616bc246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Profile&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-4&quot;]/table[@class=&quot;table target-vendor-add-note-table&quot;]/tbody[1]/tr[3]/td[1]/a[@class=&quot;ams-table target-add-service&quot;]</value>
+      <webElementGuid>3e99cf9e-9f62-49d8-ae04-97c0db53b1af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Profile']/div[3]/div/table/tbody/tr[3]/td/a</value>
+      <webElementGuid>4f59c8d7-1fac-4697-83c7-c56f83ad109b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'+ Add Service')]</value>
+      <webElementGuid>1a27c49e-581e-4264-980f-4354e55944dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[1]/following::a[2]</value>
+      <webElementGuid>37e0d0a3-7c7d-4d7f-b927-8377141ddede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catering'])[1]/following::a[3]</value>
+      <webElementGuid>b2117136-523a-405d-83df-9f8fe06b44b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airports'])[1]/preceding::a[1]</value>
+      <webElementGuid>c3bac26e-db33-4593-b354-e99403dbaa69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport'])[1]/preceding::a[1]</value>
+      <webElementGuid>7793d708-b2ab-4532-a4c3-5e7a4d438ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Add Service']/parent::*</value>
+      <webElementGuid>3e447617-0f23-4e22-92b2-6088d8baf210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[3]</value>
+      <webElementGuid>bd3dea6d-697c-429b-9b71-ad47347e44c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/a</value>
+      <webElementGuid>b1414063-b0db-44f8-ad96-27ce6c34d5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '+ Add Service' or . = '+ Add Service')]</value>
+      <webElementGuid>139b2426-1a90-447d-b900-2c92dca0a151</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

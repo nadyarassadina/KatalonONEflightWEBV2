@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>loopTool_tab</name>
+   <tag></tag>
+   <elementGuidId>2e7a932a-8cd8-4809-aea4-c16463b8b698</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='one-loop-div']/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.target-tab.target-load-loop-tool</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>83d44435-f7fa-4d3c-9500-f2a3fc3b75f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-tab target-load-loop-tool</value>
+      <webElementGuid>f79bbf13-97ec-4e34-b868-76c0cd6cb2a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>9ebb099e-383b-4d6e-aa53-3b2fc686b78c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#LoopTool</value>
+      <webElementGuid>70fdafac-6a79-4e56-82cb-c629a6499db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Loop Tool</value>
+      <webElementGuid>375ff4c1-dcf7-4d16-9d30-8ea714c49f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-div&quot;)/div[@class=&quot;col-xs-12 no-padding&quot;]/ul[@class=&quot;nav nav-tabs small-tabs&quot;]/li[2]/a[@class=&quot;target-tab target-load-loop-tool&quot;]</value>
+      <webElementGuid>754907f3-1dee-4e28-b553-0030390e4b76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-div']/div/ul/li[2]/a</value>
+      <webElementGuid>279e96a1-1f87-4365-b1e4-9ea7482f2aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Loop Tool')]</value>
+      <webElementGuid>826551b2-860c-49b2-8840-56d2d180776f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved Loops'])[1]/following::a[1]</value>
+      <webElementGuid>f9486450-89e3-4dba-a26e-c287d95752dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loop Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>966f91fc-7df7-4551-94ca-a9eaaa40ca46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::a[1]</value>
+      <webElementGuid>96b948ce-0f71-4106-a882-0ef868de1094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Loop Tool']/parent::*</value>
+      <webElementGuid>30955c2f-d533-4807-b942-06802c437571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#LoopTool')]</value>
+      <webElementGuid>cd2b18b3-6c3e-4e7f-b479-1d5b9b817df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>c8923579-f25f-47d3-a0d0-b95e64a7dfc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#LoopTool' and (text() = 'Loop Tool' or . = 'Loop Tool')]</value>
+      <webElementGuid>5604d2fe-81a9-4a6c-a957-cec11e72c5a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

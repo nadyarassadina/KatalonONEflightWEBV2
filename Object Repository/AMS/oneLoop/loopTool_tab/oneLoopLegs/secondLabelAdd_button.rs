@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>secondLabelAdd_button</name>
+   <tag></tag>
+   <elementGuidId>9eaf3e1d-8842-46e7-9a7e-03c603e53c10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='one-loop-all-legs-tbody']/tr/td/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#one-loop-all-legs-tbody > tr > td.one-loop-tool-tip.move-to > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>084940be-1106-46a6-97ba-8316ac8ae61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-all-legs-tbody&quot;)/tr[1]/td[@class=&quot;one-loop-tool-tip move-to&quot;]/label[1]</value>
+      <webElementGuid>1090517c-98f3-4b1d-a14c-ba4dd8bc8fa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='one-loop-all-legs-tbody']/tr/td/label</value>
+      <webElementGuid>b221da79-cc5c-4331-b11d-b86306aee6d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/table/tbody/tr/td/label</value>
+      <webElementGuid>3a18daea-6653-4ebf-9ea8-17fa4851b952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

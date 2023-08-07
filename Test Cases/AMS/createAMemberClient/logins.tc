@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logins</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a02658a2-354a-47fa-be42-fe3fbe34322e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28c2e4cd-a406-4378-b544-baa828e74d29</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87839490-ff01-446e-a534-0669dc723ef8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'phoneLogin'</defaultValue>
+      <description></description>
+      <id>28c2e4cd-a406-4378-b544-baa828e74d29</id>
+      <masked>false</masked>
+      <name>phoneLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>'emailAddress'</defaultValue>
+      <description></description>
+      <id>87839490-ff01-446e-a534-0669dc723ef8</id>
+      <masked>false</masked>
+      <name>emailAddress</name>
+   </variable>
+</TestCaseEntity>

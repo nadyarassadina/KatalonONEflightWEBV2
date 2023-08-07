@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>copy_icon</name>
+   <tag></tag>
+   <elementGuidId>0b3c182d-40ce-4818-8c53-25c51cff8ba1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='target-flight-leg-id-909768']/div[8]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#target-flight-leg-id-909768 > div.col-xs-1 > i.fa.fa-copy.target-copy-this-leg.cursor</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4c837103-2d78-4f2a-8f5a-99097469b622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-copy target-copy-this-leg cursor</value>
+      <webElementGuid>91e31f63-2cae-4031-b986-3b27dac39802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Copy Leg</value>
+      <webElementGuid>9023e227-c121-40db-94e9-3debd273cc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-flightplan-id</name>
+      <type>Main</type>
+      <value>580511</value>
+      <webElementGuid>e5e9a37e-a1ee-487f-8618-f19fc7cc857b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-leg-id</name>
+      <type>Main</type>
+      <value>909768</value>
+      <webElementGuid>41d634f6-b61d-498d-8387-43074e14578a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-flight-leg-id-909768&quot;)/div[@class=&quot;col-xs-1&quot;]/i[@class=&quot;fa fa-copy target-copy-this-leg cursor&quot;]</value>
+      <webElementGuid>2f639de9-fbe6-48b1-b7ac-0e05175b0af8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='target-flight-leg-id-909768']/div[8]/i</value>
+      <webElementGuid>2e7d5e5e-7bb2-4145-9263-7a4ea2ed61e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[8]/i</value>
+      <webElementGuid>9225d401-5aeb-47d7-8cee-0bb2d27d160d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Copy Leg']</value>
+      <webElementGuid>0971b5e8-a8f4-4b9c-9a11-ed3ebad2f83e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

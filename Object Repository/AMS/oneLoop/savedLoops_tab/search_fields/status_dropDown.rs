@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>status_dropDown</name>
+   <tag></tag>
+   <elementGuidId>934c353b-66d7-40e9-b7a9-93375f346330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='FilterStatus']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FilterStatus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6881316c-5b5c-4e26-9a87-994b36c38a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-filter-element input-with-clear-button target-one-loop-filter-status</value>
+      <webElementGuid>ba38a5a4-ec3e-4300-adf1-2bc881e508a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FilterStatus</value>
+      <webElementGuid>6264b6b2-3810-4e59-aa36-9f13331d8d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>FilterStatus</value>
+      <webElementGuid>7e90e64b-e5b4-49ee-a9e1-fe3b7d16e649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Status
+All
+Not Activated
+Activated
+</value>
+      <webElementGuid>65feb322-d616-44c0-b2f6-f4f246d14ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FilterStatus&quot;)</value>
+      <webElementGuid>628b6f1c-092f-4b5c-acfe-0b7c4b271d63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='FilterStatus']</value>
+      <webElementGuid>618d205f-6ca7-4638-84ae-f12b4923249f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='one-loop-search']/div/div[2]/select</value>
+      <webElementGuid>bc725aa0-3233-4e23-a66b-e3f9ac60d455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::select[1]</value>
+      <webElementGuid>53f38c4b-86cd-43b5-8d7d-048504b76cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loop Name'])[1]/following::select[1]</value>
+      <webElementGuid>9efb3b82-de7e-4678-8507-850025662361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[1]/preceding::select[1]</value>
+      <webElementGuid>0a6424c3-544c-408b-9bd1-b2283bf43ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator'])[3]/preceding::select[2]</value>
+      <webElementGuid>af41e4d3-dcd0-4058-b251-217c58fb6ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f61420a7-f529-4b0d-9d76-1caadafcb256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'FilterStatus' and @name = 'FilterStatus' and (text() = 'Select Status
+All
+Not Activated
+Activated
+' or . = 'Select Status
+All
+Not Activated
+Activated
+')]</value>
+      <webElementGuid>6a57694f-66eb-4c50-8931-caeac64485f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

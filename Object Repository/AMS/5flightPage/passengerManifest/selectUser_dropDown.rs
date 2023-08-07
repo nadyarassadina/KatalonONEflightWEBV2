@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectUser_dropDown</name>
+   <tag></tag>
+   <elementGuidId>f8d8949f-1d94-41b5-bf0f-712a1f6313f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='FlightPlan_FlightPlanSelectedUserId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FlightPlan_FlightPlanSelectedUserId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8b56865f-5386-4eb9-b294-4b3087bf2c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-flightplan-user-select form-control</value>
+      <webElementGuid>01e9fe85-fd5d-45e1-a208-55a6eb89a526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>547c4fe4-1443-43d4-804b-29b42df5f8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The FlightPlanSelectedUserId field is required.</value>
+      <webElementGuid>4c579a4b-904a-4b4f-b191-e2072734920b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FlightPlan_FlightPlanSelectedUserId</value>
+      <webElementGuid>2cd331e9-c68e-4756-add6-3881dc14cd53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>FlightPlan.FlightPlanSelectedUserId</value>
+      <webElementGuid>8f9f9a0f-d9d5-42a6-9374-5b4509a12a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select User to view Guest List
+NadyaCL Katalon
+</value>
+      <webElementGuid>978ea0df-07db-4d5b-adbc-e971cadbfd1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FlightPlan_FlightPlanSelectedUserId&quot;)</value>
+      <webElementGuid>8cf0aa92-ddcc-4293-9601-6da9f6b65d5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='FlightPlan_FlightPlanSelectedUserId']</value>
+      <webElementGuid>df6763c7-fefc-4c7c-885f-5d8ef04ba38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BAJ_Passengers']/div/div/div/select</value>
+      <webElementGuid>cb224ab7-729e-4761-a0b4-73f5776b8c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAX'])[2]/following::select[1]</value>
+      <webElementGuid>05b6278a-3f5c-4bc8-a63b-568e3c46d89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Form'])[1]/following::select[1]</value>
+      <webElementGuid>f9e676b3-9d87-4216-b89a-0940951e8bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leg 1'])[1]/preceding::select[1]</value>
+      <webElementGuid>864d28b3-b370-432c-9cac-ce1759ca1625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leg 2'])[1]/preceding::select[1]</value>
+      <webElementGuid>b8005c74-6a88-4900-b05f-4b159e2d69bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/select</value>
+      <webElementGuid>a42695d8-ce37-4e7d-93ad-f6e4ea0bf52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'FlightPlan_FlightPlanSelectedUserId' and @name = 'FlightPlan.FlightPlanSelectedUserId' and (text() = 'Select User to view Guest List
+NadyaCL Katalon
+' or . = 'Select User to view Guest List
+NadyaCL Katalon
+')]</value>
+      <webElementGuid>5cfbf2d2-b650-4c33-9bf8-6c5a612a3c69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

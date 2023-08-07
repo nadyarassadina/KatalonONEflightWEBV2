@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>openCharterPassenger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>336b1f79-48e9-43c3-be94-21ee19472034</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>22bd030f-d770-4240-8997-1a5b125e62d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Chartercl2 Katalon'</defaultValue>
+      <description></description>
+      <id>22bd030f-d770-4240-8997-1a5b125e62d3</id>
+      <masked>false</masked>
+      <name>client</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>resetLoop_button</name>
+   <tag></tag>
+   <elementGuidId>34b332fe-c3dc-402c-95ad-76dcbc52150d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Reset Loop']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button-one-loop.target-one-loop-reset</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f559a8df-8a76-48cd-bc5b-d2bad336fe33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6c77ba94-6fd9-4ca8-9efe-8b7062ab546f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-one-loop target-one-loop-reset</value>
+      <webElementGuid>d9d5b3e4-b958-4eca-84f5-a784631a9615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Reset Loop</value>
+      <webElementGuid>9881cce7-4b29-481e-957c-9f6b5ebb86ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-reset</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>07087235-8b28-474a-ba32-08030387f9b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LoopTool&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-2&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body target-inputs-panel&quot;]/div[@class=&quot;one-loop-flex-column&quot;]/fieldset[1]/div[@class=&quot;one-loop-input-parameter-div&quot;]/div[@class=&quot;one-loop-buttons&quot;]/input[@class=&quot;button-one-loop target-one-loop-reset&quot;]</value>
+      <webElementGuid>a252b2aa-ed67-43bf-91b7-51994f0bfdca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Reset Loop']</value>
+      <webElementGuid>58fa1ed3-f002-4a68-bf31-b1f5f5d14011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LoopTool']/div[2]/div/div/div/div/fieldset/div/div[5]/input[2]</value>
+      <webElementGuid>c181c7a9-98f6-4a04-aefb-54e3b8ccbfc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/input[2]</value>
+      <webElementGuid>9542e2bd-1156-4dc5-8495-be05a1209927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>45eb9478-afad-44db-85ba-0617fba40223</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstLabelAdd_button</name>
+   <tag></tag>
+   <elementGuidId>10246b76-3eb4-4e12-bc18-683c8c1ece2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='one-loop-all-legs-tbody']/tr/td/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.one-loop-tool-tip.move-to > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b70d6394-e250-4285-b297-5a632c83627c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;one-loop-all-legs-tbody&quot;)/tr[1]/td[@class=&quot;one-loop-tool-tip move-to&quot;]/label[1]</value>
+      <webElementGuid>ba2f6156-53ad-48a0-add8-d985c4415e8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='one-loop-all-legs-tbody']/tr/td/label</value>
+      <webElementGuid>2f86b01a-3111-42a5-bc14-999ff43f7c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/label</value>
+      <webElementGuid>d58b6315-2b14-4b4d-b483-75bc7aa5ed6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

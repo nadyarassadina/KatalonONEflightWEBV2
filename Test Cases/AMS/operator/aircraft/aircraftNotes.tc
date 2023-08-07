@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>aircraftNotes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3df75222-3621-4fd1-b3c1-c7fa0dd5be3b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14cdf735-97fb-4d33-8c0d-8799d7d869eb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e74e376-2f1b-4a61-bc38-aebb621d99b6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08bd36bc-12c5-4343-9e61-05258fe2cb33</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'note3'</defaultValue>
+      <description></description>
+      <id>14cdf735-97fb-4d33-8c0d-8799d7d869eb</id>
+      <masked>false</masked>
+      <name>note3</name>
+   </variable>
+   <variable>
+      <defaultValue>'note4'</defaultValue>
+      <description></description>
+      <id>4e74e376-2f1b-4a61-bc38-aebb621d99b6</id>
+      <masked>false</masked>
+      <name>note4</name>
+   </variable>
+   <variable>
+      <defaultValue>'note5'</defaultValue>
+      <description></description>
+      <id>08bd36bc-12c5-4343-9e61-05258fe2cb33</id>
+      <masked>false</masked>
+      <name>note5</name>
+   </variable>
+</TestCaseEntity>

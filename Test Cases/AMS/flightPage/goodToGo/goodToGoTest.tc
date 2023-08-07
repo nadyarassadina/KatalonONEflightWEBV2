@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>goodToGoTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>985fde49-2129-45a9-90e5-f814b1c7d08d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58b2b94a-0b8b-4dea-9cfc-7d7b5f0b6f8c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'note'</defaultValue>
+      <description></description>
+      <id>58b2b94a-0b8b-4dea-9cfc-7d7b5f0b6f8c</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+</TestCaseEntity>

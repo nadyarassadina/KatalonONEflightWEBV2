@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>openVendor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad4d6d80-4ad0-462c-8b2a-15b62e879c3a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a567113f-ecec-4d35-bd47-cea52f1d8242</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'name'</defaultValue>
+      <description></description>
+      <id>a567113f-ecec-4d35-bd47-cea52f1d8242</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

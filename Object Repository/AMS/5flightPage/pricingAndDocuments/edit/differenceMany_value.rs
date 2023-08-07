@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>differenceMany_value</name>
+   <tag></tag>
+   <elementGuidId>649010cc-b55b-43ff-bcff-808b1ee424f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='target-review-costs-changes-div']/div[3]/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bold.font-size-11.bad</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>539c58bc-5e8d-4e41-a809-051ffb44dc03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bold font-size-11 bad</value>
+      <webElementGuid>744b4268-98cc-4eb0-afc2-787fc8581b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            -$13,493.28
+        </value>
+      <webElementGuid>4e5f2906-2cb0-4bb3-980e-e6c1a7f141b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-review-costs-changes-div&quot;)/div[@class=&quot;col-xs-4&quot;]/label[@class=&quot;red-newline-label text-uppercase&quot;]/span[@class=&quot;bold font-size-11 bad&quot;]</value>
+      <webElementGuid>5cd39f43-0b3c-4999-890c-8e170050a12f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='target-review-costs-changes-div']/div[3]/label/span[2]</value>
+      <webElementGuid>2c8f976a-c59a-4553-8829-1b33970486bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::span[1]</value>
+      <webElementGuid>736559ac-874d-4b28-af03-18079461423f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Activity'])[1]/preceding::span[1]</value>
+      <webElementGuid>d06051ea-9e3d-44c2-a918-4b6fa0a522b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-$13,493.28']/parent::*</value>
+      <webElementGuid>a7f9b1bb-1a04-4065-8969-2f1b2a0a2727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span[2]</value>
+      <webElementGuid>490c12c6-d004-4117-ad96-bdb0583f6617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+            -$13,493.28
+        ' or . = '
+            -$13,493.28
+        ')]</value>
+      <webElementGuid>5e399b68-5d35-46ba-9263-9e381e6270f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>showAdjusted_button</name>
+   <tag></tag>
+   <elementGuidId>196589e3-2b51-4858-bd8d-c6ff9fd2c3a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Show adjusted flight cost &amp; bill hours']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.target-review-flight-costs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>90585e8a-2c29-4f1a-a859-a6e6956b45c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e4367171-f1d3-431e-93f3-bb22f65840cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Show adjusted flight cost &amp; bill hours</value>
+      <webElementGuid>31c5a0d2-75cc-44e5-8b0d-eae260be045e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary target-review-flight-costs</value>
+      <webElementGuid>57a5008b-9bec-4721-a7da-fb649ea5c8bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>23118dc0-2802-4105-95d2-35713852a393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show adjusted flight cost &amp; bill hours</value>
+      <webElementGuid>3f56176c-a2ce-4cbd-a9d0-25a3774f9db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-edit-confirmed-flight-form&quot;)/div[@class=&quot;row text-center&quot;]/input[@class=&quot;btn btn-primary target-review-flight-costs&quot;]</value>
+      <webElementGuid>5116e4aa-5769-4a13-b413-e5fef7a88da4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Show adjusted flight cost &amp; bill hours']</value>
+      <webElementGuid>56f090d2-f046-4ad2-a5f9-30b590884b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='target-edit-confirmed-flight-form']/div[2]/input</value>
+      <webElementGuid>1f626b83-b2f5-4321-a661-b14f558153d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/input</value>
+      <webElementGuid>8d2b811d-de9c-433b-b96e-98dd05a33d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button' and @title = 'Show adjusted flight cost &amp; bill hours']</value>
+      <webElementGuid>e2bbb754-d949-498a-bd7b-5eb05ff65c3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

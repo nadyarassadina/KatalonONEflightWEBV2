@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>openOperator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50535464-8322-4d31-a43a-23aef940754f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6dc65ccf-f47a-4b56-9153-43884876d43c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'name'</defaultValue>
+      <description></description>
+      <id>6dc65ccf-f47a-4b56-9153-43884876d43c</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

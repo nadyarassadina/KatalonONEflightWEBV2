@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>itineraryReviewPaymentMemberAfterAmex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb583162-ac87-4a77-baad-38ddb6d58ff1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a531609b-20b4-4a73-b19f-6fd113696bbb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nadya CL'</defaultValue>
+      <description></description>
+      <id>a531609b-20b4-4a73-b19f-6fd113696bbb</id>
+      <masked>false</masked>
+      <name>signature</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newAddress_button</name>
+   <tag></tag>
+   <elementGuidId>cecc7c74-d7d0-4c2c-94f2-4d4694878ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td:nth-of-type(2) > div.float-right > a.of-link-black</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='Operator.PopupContactAddress($(this));'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b9fc5859-7aed-45a8-b75c-2643a739661c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>a6afec95-f197-4417-8750-29856f98d333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Operator.PopupContactAddress($(this));</value>
+      <webElementGuid>8312513a-665f-4982-b752-98180ec3650f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-operator-id</name>
+      <type>Main</type>
+      <value>1037</value>
+      <webElementGuid>a80082df-82d3-48e6-96c0-67d43bc0a19a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-contact-id</name>
+      <type>Main</type>
+      <value>12229</value>
+      <webElementGuid>82cb1516-b219-4757-8e9e-8ade3b868bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-address-id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>cca2227a-e881-432f-a4bb-a9ce7a80f19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>of-link-black</value>
+      <webElementGuid>2aa91a87-9d8e-4866-bea7-a343ecce6b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            New Address
+                                        </value>
+      <webElementGuid>ab3c893c-6ce2-4257-9f64-fc2070e5e0d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContactsDynamic&quot;)/div[@class=&quot;row&quot;]/table[@class=&quot;table ams-table black&quot;]/tbody[1]/tr[4]/td[2]/div[@class=&quot;float-right&quot;]/a[@class=&quot;of-link-black&quot;]</value>
+      <webElementGuid>22fb0b18-cf93-4119-bfb3-9c30f9f3881c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='Operator.PopupContactAddress($(this));'])[6]</value>
+      <webElementGuid>686240fc-3aaf-4e07-b283-dfe2bb73daf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContactsDynamic']/div[3]/table/tbody/tr[4]/td[2]/div/a</value>
+      <webElementGuid>21d46814-f366-41ed-81af-b8d1881190dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'New Address')])[4]</value>
+      <webElementGuid>727ac611-bacb-4854-a712-daaafd668c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contact3 Katalon Test3'])[1]/following::a[1]</value>
+      <webElementGuid>ce4b2559-2ced-4554-ba2b-002752d1f3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[2]/following::a[2]</value>
+      <webElementGuid>08f79560-51c3-4d6d-a6ad-787879c59e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Phone #'])[4]/preceding::a[2]</value>
+      <webElementGuid>a1b4545b-aaca-490f-a659-aa0a8fc5c550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Email'])[4]/preceding::a[4]</value>
+      <webElementGuid>23689d32-e1e0-4d57-84af-41c7b0dd69e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[21]</value>
+      <webElementGuid>ac9e4d46-8637-4870-a8a4-5360dd511025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/div/a</value>
+      <webElementGuid>de567dd1-ffdc-4dd8-819e-61d728098783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '
+                                            New Address
+                                        ' or . = '
+                                            New Address
+                                        ')]</value>
+      <webElementGuid>f3745eef-7ca1-40b5-9ac0-42864a0e25c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

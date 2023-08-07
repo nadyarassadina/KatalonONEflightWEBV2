@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1Leg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9fd9c89-8dc1-4c95-9606-40642289c0bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a15a0f0-9536-4234-868e-825b632151d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6505b890-e878-40b6-a49c-51aed28ae719</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8095f44-97ca-40b6-88a0-6f26618d370e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'luggageLeg1'</defaultValue>
+      <description></description>
+      <id>2a15a0f0-9536-4234-868e-825b632151d6</id>
+      <masked>false</masked>
+      <name>luggageLeg1</name>
+   </variable>
+   <variable>
+      <defaultValue>'firearmsLeg1'</defaultValue>
+      <description></description>
+      <id>6505b890-e878-40b6-a49c-51aed28ae719</id>
+      <masked>false</masked>
+      <name>firearmsLeg1</name>
+   </variable>
+   <variable>
+      <defaultValue>'petsLeg1'</defaultValue>
+      <description></description>
+      <id>e8095f44-97ca-40b6-88a0-6f26618d370e</id>
+      <masked>false</masked>
+      <name>petsLeg1</name>
+   </variable>
+</TestCaseEntity>

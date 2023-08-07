@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>openPassenger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04b83d77-7dec-4f76-9180-425b59b704a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be108078-6abc-4452-a438-1d54f2fa6849</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'NadyaCL Katalon'</defaultValue>
+      <description></description>
+      <id>be108078-6abc-4452-a438-1d54f2fa6849</id>
+      <masked>false</masked>
+      <name>client</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>checkingCalculationsTest8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>656cefba-dae3-4e34-b582-7c27e71619bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7b6137c-d305-4e16-8d70-1af9af2f30d8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38c8e681-eb0c-4fa8-9538-e93440f209bc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'account'</defaultValue>
+      <description></description>
+      <id>b7b6137c-d305-4e16-8d70-1af9af2f30d8</id>
+      <masked>false</masked>
+      <name>account</name>
+   </variable>
+   <variable>
+      <defaultValue>'totalPrice'</defaultValue>
+      <description></description>
+      <id>38c8e681-eb0c-4fa8-9538-e93440f209bc</id>
+      <masked>false</masked>
+      <name>totalPrice</name>
+   </variable>
+</TestCaseEntity>

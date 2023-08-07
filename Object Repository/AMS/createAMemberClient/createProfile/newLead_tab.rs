@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newLead_tab</name>
+   <tag></tag>
+   <elementGuidId>53993bff-9c06-428d-8419-a237c2fd7091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a.left-menu-sub-level</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/ul[2]/li/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ddf790f0-11c5-44b8-b73d-b445ef48accc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ams/ClientDetail</value>
+      <webElementGuid>74a876b8-8de3-4b16-852b-0b22c1bf26dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>left-menu-sub-level</value>
+      <webElementGuid>b71f6083-c62b-4f7d-859d-aa33b81cc173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Lead</value>
+      <webElementGuid>4b23ae15-ca57-42fd-a04f-5180e73342c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;top_wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row col-xs-12&quot;]/div[@class=&quot;col-xs-2 no-padding left-menu&quot;]/ul[@class=&quot;no-padding&quot;]/li[1]/ul[1]/li[5]/a[@class=&quot;left-menu-sub-level&quot;]</value>
+      <webElementGuid>d15b4056-e3cd-4dc1-949f-9ffd563516b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/div[3]/div/div[2]/div/div/ul[2]/li/ul/li[5]/a</value>
+      <webElementGuid>81369aba-dda0-4b78-9185-5e009125405c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'New Lead')]</value>
+      <webElementGuid>009e2fbb-8a3a-481f-85d5-970e89afa6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Interested'])[1]/following::a[1]</value>
+      <webElementGuid>c027ee83-9516-45e7-925b-76130c8e8963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrong Number'])[1]/following::a[2]</value>
+      <webElementGuid>766f62be-48c0-4ce2-a3b4-84e0113ded1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Leads'])[1]/preceding::a[1]</value>
+      <webElementGuid>8d588a0d-fb35-48af-b781-ec3e3b1d73d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do Not Call'])[1]/preceding::a[2]</value>
+      <webElementGuid>d155ec3f-95bf-42c4-aa37-771c5a7d145e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Lead']/parent::*</value>
+      <webElementGuid>3f3fe616-aa3f-42f1-9e6b-69ab969b730a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ams/ClientDetail')]</value>
+      <webElementGuid>8335cfc6-4fd9-4c56-af10-568793d9d124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/ul/li[5]/a</value>
+      <webElementGuid>b6d97375-1ef2-4e1a-bdb8-a63dbcb00df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ams/ClientDetail' and (text() = 'New Lead' or . = 'New Lead')]</value>
+      <webElementGuid>7b881a85-959d-43f5-8763-51e3218bccae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

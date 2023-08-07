@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chartercl1Katalon_object</name>
+   <tag></tag>
+   <elementGuidId>1cd78b79-569a-48bf-b31b-c2262b2ca2d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='lead-table']/tbody/tr[2]/td[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(3) > a.ams-table.target-client-detail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b6c1c282-cfe6-44fc-8a3e-5a3279c524be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ams-table target-client-detail</value>
+      <webElementGuid>90842a9a-2b67-4627-be1e-baa872d4d5cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientid</name>
+      <type>Main</type>
+      <value>69308</value>
+      <webElementGuid>ed9a4e7b-403c-4578-b6df-d88e15073382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Ams/ClientDetail/69308</value>
+      <webElementGuid>750d1f52-748b-4693-9e20-2573e9d96df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chartercl1 Katalon</value>
+      <webElementGuid>f0ad2623-836b-49bf-885e-3de920cab1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lead-table&quot;)/tbody[1]/tr[2]/td[3]/a[@class=&quot;ams-table target-client-detail&quot;]</value>
+      <webElementGuid>5eab6364-5dd7-41d7-88b5-d1b9f4ec56b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='lead-table']/tbody/tr[2]/td[3]/a</value>
+      <webElementGuid>cb349e0f-16b4-4316-9def-03cf9fc933b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Chartercl1 Katalon')]</value>
+      <webElementGuid>b6ad39ce-8751-445e-998f-52462787f037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAJ'])[4]/following::a[1]</value>
+      <webElementGuid>e5fb1686-454e-4e26-a6ab-b5f81d6ca52e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charter Client'])[1]/following::a[1]</value>
+      <webElementGuid>302b1006-e3c7-487f-b7ce-39074e942bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rassadinanadezhda3+charter@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>b1938707-d9fd-49c8-b0f5-edf0c5999892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(720) 333-3333'])[1]/preceding::a[2]</value>
+      <webElementGuid>d6bf595c-7642-4174-9ee8-17316b6da7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chartercl1 Katalon']/parent::*</value>
+      <webElementGuid>d110271b-faad-4593-ba64-71bd1f3c1331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Ams/ClientDetail/69308')]</value>
+      <webElementGuid>721acc73-1df5-4249-8613-f707f4299c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/a</value>
+      <webElementGuid>330422fb-bee5-40ba-9974-244bf0d4f693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Ams/ClientDetail/69308' and (text() = 'Chartercl1 Katalon' or . = 'Chartercl1 Katalon')]</value>
+      <webElementGuid>d58c75f7-edff-4115-a122-f6291217a558</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

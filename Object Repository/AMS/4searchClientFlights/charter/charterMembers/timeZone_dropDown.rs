@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>timeZone_dropDown</name>
+   <tag></tag>
+   <elementGuidId>6d095448-7860-4271-8546-2303145f425f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AmsFilterViewModel_FilterTimeZoneTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#AmsFilterViewModel_FilterTimeZoneTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5fcc4f66-5a52-47c6-aa0a-68dc95a108c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control target-filter-element</value>
+      <webElementGuid>9a817459-d061-4a28-a8bb-d99ecaa4d600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AmsFilterViewModel_FilterTimeZoneTypeId</value>
+      <webElementGuid>3d08f1fc-8873-4f41-9258-1e89de349ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AmsFilterViewModel.FilterTimeZoneTypeId</value>
+      <webElementGuid>1f31a95d-d9cb-4d15-8953-717f00622d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All
+EST
+CST
+MST
+PST
+Samoa Standard Time
+Chamorro Standard Time
+ATC
+AKST
+HST
+NST
+</value>
+      <webElementGuid>5ac05ded-5ce9-4dcd-9d4c-83a535159789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AmsFilterViewModel_FilterTimeZoneTypeId&quot;)</value>
+      <webElementGuid>2b832287-5444-4d97-94e1-feac04131c26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AmsFilterViewModel_FilterTimeZoneTypeId']</value>
+      <webElementGuid>d9416883-8288-4a5d-9c53-dc576ab4b78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div/div[2]/div[6]/div/select</value>
+      <webElementGuid>979aac15-024c-4e9f-aef6-df2bb2484dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Zone'])[1]/following::select[1]</value>
+      <webElementGuid>a3202af1-8907-437d-aa03-99cecde0005a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::select[1]</value>
+      <webElementGuid>7df5fdf9-a8f1-47f3-93f7-d6ea5f923ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source'])[1]/preceding::select[1]</value>
+      <webElementGuid>502a94d6-488e-4a21-b019-97e83afa1a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Owner'])[1]/preceding::select[2]</value>
+      <webElementGuid>8a62aefe-2436-4408-a585-d7b57d2a389b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>72686282-564d-4a60-b149-0bc4f1123559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AmsFilterViewModel_FilterTimeZoneTypeId' and @name = 'AmsFilterViewModel.FilterTimeZoneTypeId' and (text() = 'All
+EST
+CST
+MST
+PST
+Samoa Standard Time
+Chamorro Standard Time
+ATC
+AKST
+HST
+NST
+' or . = 'All
+EST
+CST
+MST
+PST
+Samoa Standard Time
+Chamorro Standard Time
+ATC
+AKST
+HST
+NST
+')]</value>
+      <webElementGuid>90978717-b595-46f7-85cd-adf92d47136a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

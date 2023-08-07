@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectState_dropDown</name>
+   <tag></tag>
+   <elementGuidId>88136222-fb78-4914-9aea-73b7ed329f1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Address_StateId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Address_StateId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a5530151-82da-4ba4-b3fd-88b8b29fe680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control auto-complete-state</value>
+      <webElementGuid>80d41e3e-e1ca-4f25-a714-84fbda9f6649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Address_StateId</value>
+      <webElementGuid>0cdb5c6c-5156-444f-8b49-9024953b88af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Address.StateId</value>
+      <webElementGuid>06437fe2-abad-4059-a47f-c7e6956b6a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IT
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+DC
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+AS
+GU
+MP
+PR
+VI
+ON
+QC
+NS
+NB
+MB
+BC
+PE
+SK
+AB
+NL
+</value>
+      <webElementGuid>8546bf7a-f325-4d86-811a-67b74f1eb572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;target-new-quote-type-2-leg-909766&quot;)/div[@id=&quot;new-executive-quote-noorder&quot;]/div[@id=&quot;pickup-quote-0&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-5&quot;]/div[@class=&quot;row auto-complete-address&quot;]/div[@class=&quot;col-sm-3 padding-5&quot;]/select[@id=&quot;Address_StateId&quot;]</value>
+      <webElementGuid>0b858db2-266d-4b2a-90d1-bda180a9df1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Address_StateId']</value>
+      <webElementGuid>bfcf2a5d-174d-4bef-8035-db26e2509d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pickup-quote-0']/div/div/div[2]/div[2]/div[3]/select</value>
+      <webElementGuid>bfcc109f-2325-48b1-95bc-ab46cd1a5d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer pickup Address'])[1]/following::select[1]</value>
+      <webElementGuid>0e5a8a3c-a960-48e5-ae88-f9bca321a1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Note'])[4]/preceding::select[1]</value>
+      <webElementGuid>3b2b2621-6aec-4bd6-9001-e84128d18bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer to be dropped off at'])[1]/preceding::select[1]</value>
+      <webElementGuid>eb88c82c-a55e-4ec0-9c1e-839c0321906a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/div[2]/div[3]/select</value>
+      <webElementGuid>f3cd4f5f-071b-4acb-bcdc-ef80951d63d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Address_StateId' and @name = 'Address.StateId' and (text() = 'IT
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+DC
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+AS
+GU
+MP
+PR
+VI
+ON
+QC
+NS
+NB
+MB
+BC
+PE
+SK
+AB
+NL
+' or . = 'IT
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+DC
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+AS
+GU
+MP
+PR
+VI
+ON
+QC
+NS
+NB
+MB
+BC
+PE
+SK
+AB
+NL
+')]</value>
+      <webElementGuid>fc2508c0-3b6d-4561-9323-aa4f048b207d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

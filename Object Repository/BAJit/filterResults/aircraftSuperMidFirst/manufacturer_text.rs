@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>manufacturer_text</name>
+   <tag></tag>
+   <elementGuidId>3204d440-1bdd-4b85-93e9-31aa45087b78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6668']/div/div/div[2]/div/div/div/ul/li/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#6668 > div.aircraftDetailBox > div.row-fluid.clearfix.bg-white > div.col-xs-12.col-md-5.additional-aircraft-info-top-container > div.additional-aircraft-info-container > div.row-fluid.clearfix.additional-aircraft-info > div.additional-aircraft-info-left > ul.jet-additional-info > li > span.jet-additional-info-dd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1aaa3600-272f-4ce7-b0be-3e1032d4a067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jet-additional-info-dd</value>
+      <webElementGuid>a4338616-3cca-4137-9897-f4c8056f51b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TEXTRON AVIATION INC</value>
+      <webElementGuid>319b33a7-8b1d-4321-a1c2-957b288f631c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6668&quot;)/div[@class=&quot;aircraftDetailBox&quot;]/div[@class=&quot;row-fluid clearfix  bg-white&quot;]/div[@class=&quot;col-xs-12 col-md-5 additional-aircraft-info-top-container&quot;]/div[@class=&quot;additional-aircraft-info-container&quot;]/div[@class=&quot;row-fluid clearfix additional-aircraft-info&quot;]/div[@class=&quot;additional-aircraft-info-left&quot;]/ul[@class=&quot;jet-additional-info&quot;]/li[1]/span[@class=&quot;jet-additional-info-dd&quot;]</value>
+      <webElementGuid>0be720ac-6f1d-4309-b700-eb0695bfd54e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6668']/div/div/div[2]/div/div/div/ul/li/span[2]</value>
+      <webElementGuid>005cfe48-b5e0-4e6c-b763-2095ac1ecdca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturer'])[2]/following::span[1]</value>
+      <webElementGuid>8527b798-255b-49c2-9cea-769d0328a22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::span[2]</value>
+      <webElementGuid>68e44408-1af4-40d5-82e0-c80edfdb355f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[2]/preceding::span[1]</value>
+      <webElementGuid>77992762-220a-444f-93fb-1bdfd1aa1d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabin Height'])[2]/preceding::span[3]</value>
+      <webElementGuid>94421363-82ba-432e-acf5-665d7c3dc58f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TEXTRON AVIATION INC']/parent::*</value>
+      <webElementGuid>e1d9bd2a-252b-4248-808b-09a63240a074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div/div/div/ul/li/span[2]</value>
+      <webElementGuid>17c6f457-bf84-4673-8693-ea376ab700d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'TEXTRON AVIATION INC' or . = 'TEXTRON AVIATION INC')]</value>
+      <webElementGuid>475eaecc-d2de-454c-b265-5341d391db39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

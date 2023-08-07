@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchGreenButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f43227f3-b63c-419f-9ec1-8d56e13dade8</testCaseGuid>
+   <variable>
+      <defaultValue>'keywords'</defaultValue>
+      <description></description>
+      <id>45c7b5b3-6773-47d9-a9dc-8f0f2f831f7f</id>
+      <masked>false</masked>
+      <name>keywords</name>
+   </variable>
+   <variable>
+      <defaultValue>'subject'</defaultValue>
+      <description></description>
+      <id>7d70d04f-ba09-465c-b5c3-ce3268c710b5</id>
+      <masked>false</masked>
+      <name>subject</name>
+   </variable>
+</TestCaseEntity>
