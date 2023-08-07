@@ -14,21 +14,21 @@
    <testCaseLink>
       <guid>0bd4694b-2970-4c5d-8ab8-76cf075a4ece</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/logInAsSuperAdmin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>46121061-2632-46f8-8257-9d37b44acec9</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/openTheListOfCharter2Flights</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>692a6b1d-3be3-4761-b44e-89e8433b5b50</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/flightViaAms/forTest2/roundTrip2LegsCharter2</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -98,14 +98,14 @@
    <testCaseLink>
       <guid>fdfaa087-fd00-407c-b268-b5d81b146c7b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/activateFlight/activateFlight</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>d8135a3e-ba1f-4111-ad0e-95d04419d473</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/20QuotesComplete/20QuotesCompleteTest2</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -169,7 +169,7 @@
    <testCaseLink>
       <guid>16d320a5-851b-4042-9bdb-197175a18d7f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/flightOpsAssigned/flightOpsAssigned</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -197,7 +197,7 @@
    <testCaseLink>
       <guid>bcfad79f-d2a2-427d-a23c-bf8f953a8d60</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/passengerManifest/openCharterPassenger</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -210,7 +210,7 @@
    <testCaseLink>
       <guid>8fd6cefe-9492-4c1c-b09a-4bc2dfc5cec2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/passengerManifest/passenger1/addPassenger1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -298,14 +298,14 @@
    <testCaseLink>
       <guid>9288797a-2341-40fa-9ee5-a43448627571</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/passengerManifest/passenger1/1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>05d2bd0a-0f90-48ff-896c-7fb0695ba9f7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/passengerManifest/passenger2/addPassenger2</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -393,14 +393,14 @@
    <testCaseLink>
       <guid>807e48ce-fe26-45e3-b6d9-0061781abbac</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/passengerManifest/passenger2/2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>a2f7400c-2152-4939-8b6f-73e961223d38</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/passengerManifest/passenger3/addPassenger3</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -488,14 +488,14 @@
    <testCaseLink>
       <guid>e2b40892-a64a-44d9-936b-7e3cf861c884</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/passengerManifest/passenger3/3</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e364ebee-1bfd-4656-ae05-65877c37ee06</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/conciergeAssigned/conciergeAssigned</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -523,7 +523,7 @@
    <testCaseLink>
       <guid>4a8368b5-4332-4095-a592-13af4e6abc64</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/conciergeOrders/leg1/cateringQuotesLeg1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -599,7 +599,7 @@
    <testCaseLink>
       <guid>6b1cce0e-c5b6-4da1-b42f-144046cadfc7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/conciergeOrders/leg1/toAirportLeg1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -693,7 +693,7 @@
    <testCaseLink>
       <guid>aa6cd5c9-4b4b-408c-9983-5072b6e346c0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/conciergeOrders/leg1/fromAirportLeg1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -739,7 +739,7 @@
    <testCaseLink>
       <guid>d17510dd-cc6c-4ec4-a762-db8de8a4ba62</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/pricingAndDocuments/test2/checkingCalculationsAMS</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -809,21 +809,21 @@
    <testCaseLink>
       <guid>d3376eff-962c-4338-8945-b6a49a2f8171</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/pricingAndDocuments/sendFlightDocument</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>89286cd0-4658-4055-8889-e98d9876eac7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/openTheListOfCharter2Flights</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>4e1c67f2-d204-4971-80b7-cc5707384847</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/pricingAndDocuments/checkStatus</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -845,14 +845,14 @@
    <testCaseLink>
       <guid>c99119da-75eb-41c7-af33-6b2079568dff</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/closeBrowser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bc1e8b75-584f-47f6-bde1-86ac015204d2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/signInToOutlook</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -877,7 +877,7 @@
    <testCaseLink>
       <guid>803ad22d-a6ca-42db-aacc-f09bfa82f8f2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/openAnotherMailbox</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -890,7 +890,7 @@
    <testCaseLink>
       <guid>2e69aa5b-d385-4798-a58d-207da397de85</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/greenButton/searchGreenButton</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -918,14 +918,14 @@
    <testCaseLink>
       <guid>fd75a8a7-06fe-43e1-9c7d-665af52cf644</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/greenButton/checkAndClickGreenButton</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>09efdeaf-7fa0-4a8e-8db3-299fbb0bc43d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/greenButton/itineraryReviewDecline</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -938,7 +938,7 @@
    <testCaseLink>
       <guid>14d518fd-9332-4c78-99e6-2b9754510194</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/closeBrowser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -952,14 +952,14 @@
    <testCaseLink>
       <guid>7702ce81-56ee-499c-80ff-8126af7c9b67</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/openTheListOfCharter2Flights</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c671cd01-9a9f-4993-b579-043218e4c8e5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/pricingAndDocuments/checkStatus</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -981,14 +981,14 @@
    <testCaseLink>
       <guid>1fa653df-6f05-457f-8a22-7254bb596cc9</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/closeBrowser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>062b7219-1907-48f0-a50c-123cbd43b0d4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/signInToOutlook</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -1013,7 +1013,7 @@
    <testCaseLink>
       <guid>82883c04-efcd-4a3e-ae46-b579db572fab</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/openAnotherMailbox</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -1026,7 +1026,7 @@
    <testCaseLink>
       <guid>70651110-3213-4892-afcc-2bb97eefc1cd</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/greenButton/searchGreenButton</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1054,28 +1054,28 @@
    <testCaseLink>
       <guid>df8d6378-cac2-4d2d-9cde-3a9c6bbc27e2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/closeBrowser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>05daf791-ea78-490e-a114-13f6960e591f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/logInAsSuperAdmin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>768a2bda-587e-4357-856a-c9251eb71f53</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/openLastFlightCharter2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>ba274e23-4b83-4e21-9483-6f445fc34657</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/pricingAndDocuments/test2/addBillAdjustment</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1115,21 +1115,21 @@
    <testCaseLink>
       <guid>460ff455-2216-4758-9e80-6bd66ce9b12e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/pricingAndDocuments/sendFlightDocument</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>53aa2008-95c8-4b2e-ac8a-8ac381939a03</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/closeBrowser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>663a5aeb-7458-4f43-a820-b0f247043f56</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/signInToOutlook</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -1154,7 +1154,7 @@
    <testCaseLink>
       <guid>10fa1a07-d2ab-4a04-93d0-fc4799772b52</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/openAnotherMailbox</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -1167,7 +1167,7 @@
    <testCaseLink>
       <guid>52f8be5c-27bf-4ada-b29f-3e9e14dc2438</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/greenButton/searchGreenButton</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1195,21 +1195,21 @@
    <testCaseLink>
       <guid>b3a811d3-eb40-4c7b-8eea-b9e5ae3c9b3b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/greenButton/checkAndClickGreenButton</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e45ac9d1-f650-4992-8072-e00468c2c5f1</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/greenButton/itineraryReviewAccept</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>87b4847d-f939-494c-8e74-c720f20845c1</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/OutLook/greenButton/itineraryReviewPaymentAMEX</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1297,21 +1297,21 @@
    <testCaseLink>
       <guid>544d2af0-21d1-49e6-8f85-9f2c65a86078</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/logInAsSuperAdmin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>b5fc237d-b579-4cca-a84b-bb7ea302bfab</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/openLastFlightCharter2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>09955ff8-9ae4-4f74-9ad0-ada73af927dc</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/tripSheet/afterTripSheet</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -1339,7 +1339,7 @@
    <testCaseLink>
       <guid>38964b7a-3dda-4002-bd01-907c5b00e5b0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AMS/flightPage/greenLightIssued/afterGreenLight</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
